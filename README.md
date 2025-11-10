@@ -62,7 +62,7 @@ python database.py
 python investor_scraper.py
 
 # Create embeddings
-python rag_pipeline_v2.py
+python rag_pipeline_v3.py
 ```
 
 ### 4. Run the System
