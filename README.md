@@ -34,7 +34,7 @@ Data Collection → Storage → Processing → RAG → API → Frontend
 
 ```bash
 # Clone repo
-git clone <your-repo>
+git clone 
 cd cloudrag
 
 # Create virtual environment
