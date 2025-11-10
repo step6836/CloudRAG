@@ -1,0 +1,27 @@
+This script successfully automates the scraping of earnings call transcripts from multiple investor relations (IR) websites. Its design and logic are sound: it correctly handles HTML and PDF transcript extraction, organizes output by company, and maintains a rolling four-quarter window.
+
+However, two external factors limit performance:
+
+Bot Protection (403/304 errors): Many Investor Relations portals block automated requests via Cloudflare or similar systems. This is not a code issue but a server-side restriction.
+
+PDF Format Issues: Some companies (e.g., Adobe) publish transcripts as image-only or protected PDFs without machine-readable text layers. Libraries like pdfplumber and PyPDF2 can’t extract readable text from these, resulting in encoded or blank .txt files.
+
+The script would function as intended if those external barriers didn’t exist.
+To improve robustness, future updates could include:
+
+User-agent and proxy rotation to reduce blocking.
+
+OCR fallback (via Tesseract) for image-based PDFs.
+
+Optional company-specific parsing for sites with unique layouts.
+
+403/304 companies (in this project): 
+Amazon
+Snowflake
+Oracle 
+Salesforce
+Workday
+
+Companies that should be able to be scraped via OCR:
+Adobe
+Microsoft

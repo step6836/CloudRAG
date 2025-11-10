@@ -1,0 +1,250 @@
+1
+Workday, Inc.
+Fourth-Quarter Fiscal 2025
+Prepared Remarks
+February 25, 2025
+Introduction
+Thank you, Operator.
+Welcome to Workday’s fourth quarter fiscal 2025 earnings conference call. On the call we have
+Carl Eschenbach, our CEO, Zane Rowe, our CFO, and David Somers, our Chief Product
+Officer. Following prepared remarks, we will take questions. Our press release was issued after
+close of market and is posted on our website, where this call is being simultaneously webcast.
+Before we get started, we want to emphasize that some of our statements on this call,
+particularly our guidance, are based on the information we have as of today, and include
+forward-looking statements regarding our financial results, applications, customer demand,
+operations and other matters. These statements are subject to risks, uncertainties and
+assumptions that could cause actual results to differ materially. Please refer to the press release
+and the risk factors in documents we file with the Securities and Exchange Commission,
+including our fiscal 2024 Annual Report on Form 10-K and our most recent Quarterly Report on
+Form 10-Q for additional information on risks, uncertainties and assumptions that may cause
+actual results to differ materially from those set forth in such statements.
+In addition, during today’s call, we will discuss non-GAAP financial measures, which we believe
+are useful as supplemental measures of Workday’s performance. These non-GAAP measures
+should be considered in addition to, and not as a substitute for or in isolation from GAAP results.
+You can find additional disclosures regarding these non-GAAP measures, including
+reconciliations with comparable GAAP results, in our earnings press release, in our investor
+presentation, and on the Investor Relations page of our website.
+The webcast replay of this call will be available for the next 90 days on our company website
+under the Investor Relations link. Additionally, the transcript of this call and our quarterly
+investor presentation will be posted on our Investor Relations website following this call. Also,
+the Customers page of our website includes a list of selected customers and is updated
+monthly.
+2
+Our first quarter fiscal 2026 quiet period begins on April 15th, 2025. Unless otherwise stated, all
+financial comparisons in this call will be to our results for the comparable period of our fiscal
+2024.
+With that, I will hand the call over to Carl.
+CEO Remarks
+Thank you, Justin. And thank you all for joining us today.
+Workday delivered another solid quarter in Q4, with 16% subscription revenue growth and 26%
+non-GAAP operating margin. These results are a testament to how businesses of all sizes,
+industries and geographies are increasingly turning to Workday as their trusted partner. And I'm
+incredibly proud of how our teams executed in Q4 to deliver a solid year.
+As organizations look for ways to boost productivity and run more efficiently, our value
+proposition has never been stronger. Workday gives them the ultimate advantage—helping
+them manage what matters most: their people and their money.
+And with our unified platform, our customers can unlock value faster, reduce their total cost of
+ownership and harness the power of AI across our best in class HR and Finance solutions.
+On the AI front, we just launched the Agent System of Record—a centralized system to manage
+all of an organization's AI agents, from Workday and third-parties alike. With this innovation, our
+customers will be able to manage their entire workforce—humans and digital—on our trusted
+platform. I’ll talk more about this exciting announcement later in the call, but now let’s turn to our
+customers and industry momentum in the quarter.
+During Q4, we welcomed incredible new customers including Bayer, Henkel, Iberostar, the
+State of North Carolina, and First-Citizens Bank & Trust Company. We also expanded with
+industry leaders including Cisco, Mondelez, Sutter Health and Toyota.
+Workday now serves more than 11,000 customers across industries and geographies, including
+more than 60% of the Fortune 500 and 30% of the Global 2000 — and that says a lot about the
+strategic nature of our platform.
+3
+Our industry focus is a huge contributor to this growth, and Q4 was no exception.
+In SLED, the City of Minneapolis, St. Louis County and City University of New York all chose
+our full suite in Q4. We also signed our largest Workday Student deal ever with the Minnesota
+State Colleges and Universities. This is a massive project to improve the experience for 270,000
+students and 14,000 faculty.
+Workday Student is quickly gaining traction as the top choice for higher education institutions.
+We now have more than 135 customers and we expect roughly half of them will be live by the
+Spring. After rapid adoption here in the U.S., we're excited to expand Workday Student into
+Canada and the Australia/New Zealand markets this year.
+We also have a growing opportunity with the U.S. federal government thanks to the
+administration’s strong focus on driving efficiencies and IT modernization. Our recent wins at the
+DOE and DIA have helped set a solid foundation in this sector, opening up a number of exciting
+Fed opportunities.
+Financial Services continues to be one of our largest industries. In Q4, we had significant
+expansions with Aon and Sallie Mae Bank, and we closed a large core FINS deal with a Fortune
+500 organization.
+Healthcare also once again delivered, with notable full suite wins including North Mississippi
+Medical Center, Hackensack Meridian Health, and UnityPoint Health.
+More than 30% of our net new wins in the quarter were full suite, and across our focus
+industries of SLED and healthcare—that number climbs to 50%. We had a record number of
+core FINS wins in both Q4 and the full fiscal year.
+We now have over 6,100 core HCM and Financials customers, and more than 2,000 of them
+are leveraging our full suite.
+Our investments in Financials, both in innovation and go-to-market, continued to pay off with
+strong growth in new ACV in Q4. In addition to a record number of core Financials wins, we saw
+4
+strong momentum for our financial planning, accounting center, student, and procurement
+solutions.
+And we continue to see increasing demand for AI solutions. In fact, AI is front and center in
+every conversation I have with customers, prospects, and partners. They want to move beyond
+incremental productivity gains—they’re looking for ROI that will help drive growth back into their
+business.
+Similar to Q3, we once again saw 30% of our customer expansions involve one or more AI
+SKUs, including Extend Pro, Recruiting Agent, Evisort, and our recently rolled out Talent
+Mobility agent.
+Extend Pro, which enables our customers to build AI applications on top of our platform,
+continues to be one of our fastest growing SKUs. In Q4, new ACV more than doubled over Q3.
+Developer Copilot, our Gen AI tool, is delivering real results. We're hearing from customers that
+they're seeing productivity gains of over 50%. This is helping them build apps much faster.
+Recruiting Agent had an exceptional close to the year with wins at BP, Genpact and many
+more. New ACV in Q4 nearly doubled from Q3. And this product continues to boost the average
+selling price of our core Recruiting solution — in fact in Q4, it was even higher than the 1.5x
+uplift we reported in Q3. A great example of customers’ willingness to pay for high ROI
+solutions.
+Our approach to AI has always been customer-centric. While others rushed to charge for early
+Gen AI features, we integrated them into our core offering. Now that our AI has evolved, and is
+delivering tangible ROI, we have new monetization opportunities that will fuel our long-term
+growth. And perhaps more importantly, we are further distancing ourselves from the
+competition.
+With more than one trillion transactions processed on our platform in FY25, our AI leverages the
+world’s largest and cleanest HR and Financial dataset. And the combination of this data—with
+our ability to understand the context behind it—puts Workday in a unique position.
+5
+Following the announcements of our new role-based agents at Rising, we launched four more
+agents for contracts, payroll, financial auditing and policy.
+These are not task-based agents, like most in the market today. Our role-based agents contain
+a configurable set of “skills” that give them greater ability to support people in their roles. Each
+has multiple skills and can perform a large number of tasks. That’s where the true ROI is – and
+where we see that customers are willing to pay.
+Over the past year, hundreds—and maybe thousands—of agents have been introduced to the
+market across a number of vendors. As more agents are deployed, organizations risk
+fragmented operations, increased security risk, and difficulty measuring the true value of their AI
+investments. At this point, there’s no central place to manage agents, and there’s a real risk of
+sprawl.
+That’s what the Workday Agent System of Record aims to solve. It will manage a business’
+entire fleet of AI agents alongside their human workforce, all on a trusted platform. And it won’t
+just manage Workday agents, it will also manage customer-built agents and partner-built
+agents. Since the launch, we’ve had strong interest from our customers and technology
+partners, who’d like access to Workday’s Agent System of Record to mitigate risk in the
+enterprise.
+Partners continue to play a strong role in Workday’s growth, and they also extend the power of
+the Workday platform. In Q4, more than 15% of our net new ACV was sourced through
+partners, up from more than 10% last quarter, and we’re just getting started!
+Not only are we leaning into partners to drive increased pipeline for our core products, but we’re
+also collaborating with them to create new lines of business through programs like Workday
+Wellness, where we signed five strategic partners in Q4.
+And we’re innovating with them as well. Our Built on Workday program continues to gain
+traction. Since its launch at the end of June, we’ve got 72 partners building and selling
+applications on the Workday platform.
+6
+Finally, in the quarter we also signed our first strategic talent partnership with Randstad, which
+brings together the power of Workday Recruiting Agent with the global candidate data pool of
+the largest talent company in the world to help our customers increase hiring efficiencies and
+drive better talent outcomes.
+Turning to international, we delivered solid performance across a number of our key
+geographies in Q4. We also hosted a record-breaking EMEA Rising in December with 5,000
+attendees which helped drive momentum in the quarter.
+Despite the continued macro headwinds in EMEA, our two largest markets, the UK and
+Germany, had their strongest quarter of the year. This shows what I’ve said many times—when
+customers are ready to make a spending decision, Workday is the choice.
+In the DACH region, we formed some fantastic new relationships in our competitors’ backyards
+in Q4 with great German companies like Bayer and Henkel selecting Workday core HCM.
+In APAC we had several important wins including Binance, Nine Entertainment, and
+JINGDONG.
+And in Japan, we’re continuing to build the foundation to grow in this important market with the
+opening of our Osaka office.
+I want to thank my Workmates, our customers, and our partners for helping us end FY25 strong.
+I’d also like to recognize Doug Robinson, for helping us close the quarter on a high note. Thank
+you, Doug, for your dedication to building this company.
+Before we close, I'd like to share a couple other leadership updates. After 10 incredible years,
+Sayan Chakraborty has decided to retire from Workday. He has been a driving force for our
+innovation strategy, and we can't thank him enough for the impact he's had.
+With Sayan's retirement from Workday, we're excited to welcome Gerrit Kazmaier as our new
+President of Product and Technology. Gerrit joins us from Google, where he led data analytics
+and BI for Google Cloud. Prior to that, he spent nearly 11 years with SAP. With his expertise in
+AI, data, ERP, and enterprise business processes, Gerrit is the ideal person to lead our Product
+7
+and Technology strategy. Gerrit will start on March 10, and Sayan will stay on as an advisor
+through the end of May to help with the transition.
+It’s been a year of change at Workday, and we’ll continue to evolve in the coming year to go
+after the massive opportunity ahead of us. Our recent restructuring was a tough, but necessary
+decision that will help us invest in the business to meet our customers’ needs.
+We’re entering FY26—our 20th year in business—with an amazing team, renewed energy, and
+a clear view of how we can fulfill our founders’ vision to revolutionize enterprise software…this
+time with AI.
+Thanks again for joining us. And with that, I’ll hand it over to Zane.
+CFO Remarks
+Thanks, Carl, and thank you to everyone for joining today’s call. Our Q4 results were driven by
+solid performance across key growth areas of the business including continued momentum with
+full suite and our financials solutions, growing demand for our AI SKUs, and strong execution
+across key industries.
+Turning to results, subscription revenue in Q4 was $2.040 billion, up 16%, benefiting from
+favorable linearity of new ACV bookings within the quarter. Full year FY25 subscription revenue
+was $7.718 billion, growth of 17%. Professional services revenue was $171 million in the
+quarter and $728 million for the year.
+Total revenue in Q4 was $2.21 billion, growth of 15%, and for the full year was $8.45 billion, up
+16%. U.S. revenue in Q4 totaled $1.66 billion, up 15%, and international revenue in the quarter
+was $556 million, growing 16%. For the year, U.S. revenue was $6.33 billion, up 16%, and
+international revenue was $2.11 billion, up 17%.
+12-month subscription revenue backlog, or cRPO, was $7.63 billion at the end of Q4, growing
+15%. Early renewal activity in the quarter was slightly higher than expected and contributed to
+the outperformance. Total subscription revenue backlog at the end of Q4 was $25.06 billion, up
+20%, and gross revenue retention rates remained strong at 98%.
+8
+Non-GAAP operating income for the fourth quarter was $584 million, representing a non-GAAP
+operating margin of 26.4%. The year-over-year improvement benefited from a combination of
+revenue outperformance, ongoing cost discipline, and improved efficiencies across the
+company. Full-year non-GAAP operating income was $2.19 billion, reflecting a non-GAAP
+operating margin of 25.9%.
+GAAP operating income in the quarter was impacted by a $75 million dollar charge, primarily
+related to the previously announced restructuring.
+Q4 operating cash flow was $1.11 billion dollars, resulting in full-year operating cash flow of
+$2.46 billion dollars, growth of 15%.
+We repurchased $99 million dollars of our shares during the quarter and $700 million dollars for
+the full year, helping drive annual dilution below 1% for the year. The timing and amount of our
+repurchase activity in the quarter was impacted by trading constraints. We had $802 million in
+remaining authorization as of year-end.
+We ended the year with $8 billion dollars in cash and marketable securities.
+Our headcount as of January 31 was approximately 20,400 workmates, not reflecting the
+restructuring that took place in early February, which we expect will reduce our workforce by
+approximately 8%.
+Now turning to guidance. We’re pleased with the execution we are driving across several of our
+key strategic areas, and given our solid performance in the fourth quarter, we continue to expect
+FY26 subscription revenue of approximately $8.8 billion dollars, growth of 14%. This outlook
+also includes the impact of the continued strengthening of the U.S. Dollar - which is a roughly
+$20 million dollar incremental headwind since we provided guidance last quarter.
+We anticipate Q1 FY26 subscription revenue to be approximately $2.050 billion, growth of 13%,
+or 14% when normalizing for the effect of the leap year last Q1. We expect cRPO to increase
+between 14.5% and 15.5% in Q1.
+9
+We expect subscription revenue to increase roughly 5.5% sequentially in Q2. We continue to
+expect a slightly faster pace of year-over-year subscription revenue growth in the second half of
+FY26 relative to the first half. This is driven by continued momentum across our investment
+initiatives, in addition to revenue building from certain deals we closed in FY25 and discussed
+on our last earnings call.
+We anticipate FY26 professional services revenue of approximately $700 million dollars, as we
+continue to leverage our partner ecosystem. For Q1, we expect professional services revenue
+of $165 million dollars.
+We expect FY26 non-GAAP operating margins of approximately 28%. This outlook incorporates
+an accelerated pace of AI investment across our platform and targeted investments across key
+areas of the business. We will also continue to drive efficiencies and look for improvements in
+operating our business at scale. For Q1, we expect a non-GAAP operating margin of 28%.
+GAAP operating margin for the first quarter is impacted by the previously announced
+restructuring. We expect to incur an additional restructuring expense of approximately $180
+million dollars in the quarter, which will be excluded from our non-GAAP results. We expect the
+GAAP operating margins to be approximately 30 and 21 percentage points lower than our Q1
+and full year FY26 non-GAAP operating margins, respectively.
+The FY26 non-GAAP tax rate is expected to be 19%.
+We expect FY26 operating cash flow of $2.75 billion, which includes roughly $180 million of
+cash outflows related to the restructuring, which we expect will be incurred in the first half of
+FY26.
+We expect FY26 capital expenditures of approximately $250 million dollars, down slightly from
+FY25.
+We enter the new fiscal year with clear momentum, and are focused on investing strategically to
+support our medium term objectives of mid-teens subscription revenue growth and non-GAAP
+30% non-GAAP operating margin, while building the foundation to support enduring growth and
+margin expansion.
+10
+With that, I'll turn it back over to the operator to begin Q&A.
+[END OF PREPARED REMARKS]
+_____________________________________________

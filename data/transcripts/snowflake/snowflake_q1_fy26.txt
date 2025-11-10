@@ -1,0 +1,953 @@
+Corrected Transcript
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+CORPORATE PARTICIPANTS
+Jimmy L. Sexton
+Senior Director-Finance & Head-Investor Relations, Snowflake, Inc.
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc.
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc.
+Christian Kleinerman
+Executive Vice President-Product, Snowflake, Inc.
+......................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Sanjit K. Singh
+Analyst, Morgan Stanley & Co. LLC
+Kirk Materne
+Analyst, Evercore ISI
+Michael Richards
+Analyst, RBC Capital Markets LLC
+Raimo Lenschow
+Analyst, Barclays Capital, Inc.
+Karl E. Keirstead
+Analyst, UBS Securities LLC
+Mark R. Murphy
+Analyst, JPMorgan Securities LLC
+Kash Rangan
+Analyst, Goldman Sachs & Co. LLC
+Brad Zelnick
+Analyst, Deutsche Bank Securities, Inc.
+Patrick Colville
+Analyst, Scotiabank
+Alex Zukin
+Analyst, Wolfe Research LLC
+Joel P. Fishbein
+Analyst, Truist Securities, Inc.
+Brad Reback
+Analyst, Stifel, Nicolaus & Co., Inc.
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+Copyright © 2001-2025 FactSet CallStreet, LLC
+MANAGEMENT DISCUSSION SECTION
+Operator: Good afternoon. Thank you for attending the Snowflake, Inc. Q1 Fiscal Year 2026 Earnings Call. My
+name is Matt and I'll be your moderator for today's call. All lines will be muted during the presentation portion of
+the call for an opportunity for questions and answers at the end. [Operator Instructions]
+I'd now like to pass the conference over to our host, Jimmy Sexton, Head of Investor Relations. Jimmy, please go
+ahead.
+......................................................................................................................................................................................................................................................
+Jimmy L. Sexton
+Senior Director-Finance & Head-Investor Relations, Snowflake, Inc.
+Good afternoon and thank you for joining us on Snowflake's Q1 fiscal 2026 earnings call. Joining me on the call
+today are Sridhar Ramaswamy, our Chief Executive Officer; Mike Scarpelli, our Chief Financial Officer; and
+Christian Kleinerman, our Executive Vice President of Product, who will participate in the Q&A. During today's
+call, we will review our financial results for first quarter fiscal 2026 and discuss our guidance for the second
+quarter and full year fiscal 2026.
+During today's call, we will make forward-looking statements, including statements related to our business
+operations and financial performance. These statements are subject to risks and uncertainties, which could cause
+them to differ materially from our actual results. Information concerning these risks and uncertainties is available
+in our earnings press release, our most recent Forms 10-K and 10-Q and other SEC reports. All our statements
+are made as of today based on information currently available to us. Except as required by law, we assume no
+obligation to update any such statements.
+During today's call, we will also discuss certain non-GAAP financial measures. See our investor presentation for a
+reconciliation of GAAP to non-GAAP measures and business metric definitions, including adoption. The earnings
+press release and investor presentation are available on our website at investors.snowflake.com. A replay of
+today's call will also be posted on the website.
+With that, I would now like to turn the call over to Sridhar.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc.
+Thanks, Jimmy, and hi, everyone. Thank you, all, for joining us today. We are off to a strong start to the year and I
+couldn't be more proud of our team. Our core business is very strong, our product delivery remains in overdrive,
+and our go-to-market engine continues to get stronger and stronger. We are in the zone and there's still an
+enormous opportunity ahead.
+At Snowflake, our mission is to empower every enterprise to achieve its full potential through data and AI. Our AI
+data cloud helps customers get more value out of their data, innovate faster and remove friction from their
+business operations. And as I have shared in the past few quarters, we are extending that value throughout the
+data lifecycle. We remain disciplined in driving operational rigor across our business, gaining greater efficiency
+even as we continue to invest aggressively in growth. We are building our strength in executing with urgency and
+focus to capture the opportunities ahead and sustain durable momentum.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+4
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Product revenue for Q1 was $997 million, up a strong 26% year-over-year. Excluding the impact of leap year,
+product revenue grew 28% year-over-year. Our growth rate was stable quarter-over-quarter, showing no
+deceleration. Remaining performance obligations totaled $6.7 billion with year-over-year growth of 34%. Our net
+revenue retention was a very healthy 124%. As you can see, we have started the year with strong revenue
+growth, and overall, very healthy results and we are increasing our growth expectations for the year.
+As I've shared in the past few quarters, Snowflake is obsessed with creating product cohesion to make it easier
+and easier for our customers to innovate faster and unlock more value from their data, from inception to insights.
+Enterprise leaders like Canva and JPMorgan Chase bet their business on Snowflake because our platform is
+easy to use, connected to enable fluid access to data wherever it sits, and trusted by companies of all sizes and
+industries. And we are continuing to deliver on our vision of being the end-to-end technology provider for our
+customers' data journey.
+We have made important progress in delivering an accessible and flexible connectivity platform, both unstructured
+as well as structured data. Snowflake Connectors, which leverages the technology from our acquisition of
+Datavolo, enables customers with seamless connectivity and data integration with key platforms like Google
+Drive, Workday, Slack, SharePoint and more to tap into critical data across the business.
+Global pharmaceutical leader AstraZeneca, for example, can now analyze critical business data from systems like
+SAP and Workday with ease. And customers like CloudZero leverage hundreds of powerful active data sharing
+connections to securely exchange data with their partners and customers, driving value across our ecosystem. As
+our data engineering business continues to show strength, we are helping our customers streamline and scale
+their data pipeline with less and less friction and realize meaningful cost savings.
+By consolidating data in Snowflake, Dentsu, a global marketing agency managing data for numerous Fortune 500
+clients, reduced costs by 30% from simplified data architecture and reduced dependence on third-party tools.
+They now use Snowflake Data Clean Room to help global brands securely combine customer data without
+compromising privacy, enabling more personalized marketing campaigns while reducing risk.
+On the analytics front, our world-class solutions continue to power mission-critical operations for our customers.
+Global technology leader Siemens is collaborating with Snowflake to help manufacturers unlock new levels of
+operational efficiency and scale. This enables customers to unify their information technology data such as supply
+chain management and financial data with operational technology data like data from plant floor systems and
+industrial equipment, leveraging Siemens' industrial edge and Snowflake's AI data cloud to gain better insight,
+improve machine performance and optimize production processes across their business.
+And as AI reshapes the enterprise, Snowflake is helping our customers lead the way with AI-ready data. Take
+Samsung Ads, a leader in connected TV advertising, they leveraged Snowflake to connect advertisers with
+millions of Samsung consumers while upholding strict privacy standards. By unifying their data on Snowflake,
+Samsung Ads drives innovation in personalized customer experiences and accelerates the development of new
+AI and ML forward advertising features, enabling advertisers to deliver more relevant content and enhance the
+advertising experience.
+We have an incredible product momentum, and we are continuing to innovate at lightning speed. In fact, this
+quarter alone, we have brought over 125 product capabilities to market, a 100% increase over what we delivered
+in Q1 of last year. We continue to see strong adoption of open data formats, especially truly open modern table
+formats like Apache Iceberg. We recently announced that our customers can now leverage many of Snowflake's
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+5
+Copyright © 2001-2025 FactSet CallStreet, LLC
+core capabilities, including data sharing, security and performance optimization using Apache Iceberg, giving
+them even more flexibility to manage and query data at scale.
+When it comes to AI, pretty amazing to see our progress. A year ago, we were just getting started. Now, we have
+over 5,200 accounts using our AI and machine learning on a weekly basis. Cortex AI has gone from a nascent
+product area to a foundational pillar of enterprise AI strategies for customers around the world. It's accelerating
+clinical research for healthcare companies with unified access to information and turning automotive customer
+reviews into actionable insights to help them personalize their service.
+As one of the world's largest food and beverage company, Kraft Heinz, is leveraging Snowflake Cortex to
+empower its employees with innovative AI tools like [ph] HAT (00:08:51) or Kraft Heinz AI, their new internal AI
+assistant. This initiative is designed to revolutionize internal workflows, enhance efficiency and drive AI adoption
+across the organization, paving the way for future advancement in agentic AI.
+Earlier this year, we launched Cortex Agents, which is now helping customers like Luminate Data, a leading
+provider of entertainment insights, scale how they process and retrieve both unstructured and structured data.
+That foundation is critical for developing, deploying and orchestrating the data agents driving their AI applications.
+And we have further solidified our leadership by continuing to integrate cutting-edge models into Cortex, ensuring
+day one availability of Meta's Llama 4 model. As I shared last quarter, we announced an expanded partnership
+with Microsoft to host OpenAI models on Microsoft Azure [ph] region (00:09:50). We continue to provide our
+customers with choice and flexibility to leverage the world's leading models for their enterprise AI applications.
+We also launched the first of our AI-powered migration enhancements. Now, our customers can use Cortex to
+test and review issues during their migration journey, making a time-intensive process much more efficient. And
+this is just the start of what AI can do to make migrations go fast. All of these innovations are focused on driving
+real value for our customers. We are making it easy to tap into structured data. We are making it easy to tap into
+unstructured data as well. And we're helping our customers build a strong foundation to lead in the era of agentic
+AI. We're continuing on this momentum and you'll see even more from us in just a few weeks.
+During the first week of June, we'll be joined by tens of thousands of customers, partners and developers at
+Snowflake Summit, a four-day event on our biggest yet, where we will reveal some truly exciting new capabilities
+we are bringing to market to support our customers at every stage of their data journey.
+As we innovate, we remain committed to scaling efficiently. Under the leadership of our new Chief Revenue
+Officer, Mike Gannon, we have renewed focus and rigor across our go-to-market base. We're growing our go-tomarket operations while maintaining our close collaboration across engineering, product, marketing and sales to
+bring products to market effectively. This ensures that we are able to deliver greater value to our existing
+customers, while continuing to win new ones.
+We're also expanding our addressable market. With the launch of Snowflake Public Sector, Inc., and our recent
+Department of Defense Impact Level Provisional Authorization, we're now equipped to deliver mission-critical data
+and AI solutions to the national security community, including the United States Department of Defense, its
+military branches, and industry partners.
+We also introduced new automotive solutions as part of our AI data cloud for manufacturing. These solutions
+empower companies like CarMax and Nissan with advanced data and AI solutions to drive innovation and
+efficiency and we are using our own AI internally to boost productivity.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+6
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Our go-to-market teams use our sales knowledge assistant powered by Cortex to access insights from our sales
+knowledge base using natural language. With fast, intuitive, seamless apps like our Customer 360 app, they can
+tap into rich insights on customer consumption front.
+I'm proud of the discipline and efficiency we have built across the business. We've got a strong operational
+rhythm, we're investing strategically for growth, and we are laying the groundwork for scale.
+Mike, why don't you take us through more of the financial details?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc.
+Thank you, Sridhar. In Q1, product revenues grew 26% year-over-year to reach $997 million. As Sridhar
+mentioned, we saw no deceleration in the business when adjusting for leap day. We continue to see meaningful
+growth from new product offerings. Both Snowpark and Dynamic Tables outperformed expectations in Q1. Other
+areas of strength included technology and retail sectors.
+Q1 was a strong quarter for bookings. On our last call, I noted two large customers ran out of capacity in Q4 and
+elected to delay their larger renewals. As expected, both of these accounts signed $100 million-plus contracts in
+Q1. We view this variability in bookings as normal for our model. Our focus on new customer acquisitions is
+yielding positive results. We added 451 net new customers in Q1, growing 19% year-over-year.
+Turning to margins. In Q1, our non-GAAP product gross margin was margin was 75.7%. Our non-GAAP operating
+margin was 9%, up 442 basis points year-over-year. We continue to focus on driving greater efficiency across the
+entire company, while investing for growth.
+Non-GAAP adjusted free cash flow margin was 20%. As discussed on our last earnings call, we had several large
+customers purchase as they consumed in Q4. This booking behavior impacts the seasonality of our free cash
+flow. We expect this year to be more second half weighted.
+In Q1, we used $491 million to repurchase 3.2 million shares at an average weighted price per share of $152.63.
+We still have $1.5 billion remaining on our authorization through March 2027. We ended the quarter with $4.9
+billion in cash, cash equivalents, short-term, and long-term investments.
+Now, moving to our outlook. We expect Q2 product revenue between $1.035 billion and $1.04 billion,
+representing 25% year-over-year growth. We expect Q2 non-GAAP operating margin of 8%. For FY 2026, we are
+increasing our revenue guidance to $4.325 billion, representing 25% year-over-year growth. As always, we
+forecast based on observed customer behavior. We expect non-GAAP gross – product gross margin of margin of
+approximately 75%, non-GAAP operating margin of 8%, non-GAAP adjusted free cash flow margin of 25%.
+Finally, we will host our Investor Day on June 3 in San Francisco in conjunction with Snowflake Summit. If you are
+interested in attending, please e-mail ir@snowflake.com. Before opening up the line for questions, I just wanted to
+update you on my transition as mentioned on the Q4 conference call last quarter. We are in the process of
+interviewing many great candidates, and we will make an announcement in the future when we have more firm
+details to share.
+With that, operator, you can now open up the line for questions.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+7
+Copyright © 2001-2025 FactSet CallStreet, LLC
+QUESTION AND ANSWER SECTION
+Operator: [Operator Instructions] First question is from the line of Keith Weiss with Morgan Stanley. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Sanjit K. Singh
+Analyst, Morgan Stanley & Co. LLC Q
+Thank you. This is Sanjit Singh for Keith Weiss. Congrats on an outstanding Q1. Sridhar, I want to talk about
+some of the trend lines of the business, particularly around consumption as it progressed through the quarter.
+How was consumption sort of exiting the quarter and through the month of May? That's my first question, then I
+have a follow-up.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+As you know, we don't comment on consumption within a quarter. Overall, Q1 consumption was very strong
+coming out of the holiday period, and you see that in our results. Of course, Q1 had one less day compared to Q1
+last year. But overall, we feel very good about where consumption is.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+And I would say, Sanjit, we just gave guidance for the quarter and that's based upon the customer behaviors
+we're seeing through today.
+......................................................................................................................................................................................................................................................
+Sanjit K. Singh
+Analyst, Morgan Stanley & Co. LLC Q
+Yes, and that Q2 guide was very strong, so I think there's a lot to take away from there. And then, Sridhar, on the
+product front, you mentioned about the adoption of Cortex continuing to build. I was wondering to see what are
+sort of the monetization trends associated with Cortex. And to what extent are customers making commitments
+associated with Cortex in mind and driving that into their sort of overall consumption Snowflake?
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+I would split that into a few parts, Sanjit. One is that it is very, very clear that people invest in Snowflake. People
+invest in data systems, not just for what they used to be able to do before, which is things like analytics and
+machine learning, but increasingly for what they will be able to do today and in the future. And part of what I tell
+our customers is that by working with us, by bringing data into Snowflake, they are making their data, they are
+making their processes AI-ready as it were.
+And we have taken a very measured approach to how we have had our customers use AI. As you know, we don't
+sell AI separately. It's not a SKU. Customers are not signing up for contracts on AI, so it's on their existing spend.
+We have focused a lot on use cases that deliver value today. I've talked about some of these examples. It's
+everything from being able to create chatbots on documents like we have created for our own internal
+enablement, or Siemens has created for all of the PDF manuals of their 150,000 devices to putting business data
+directly into the hands of end users without needing analyst or BI tools in the mix, beginning to see compound
+systems get adopted, where you bring in more than one data source that can disambiguate between the kinds of
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+8
+Copyright © 2001-2025 FactSet CallStreet, LLC
+questions that the user has, or multi-step flows where you take data from one source and use that to answer
+questions or do follow-ups from others.
+So it's very graduated from that perspective. But the overall point that I want to make is that every user of data,
+every CDO, including our own, now realizes that their data strategy, especially one with Snowflake, is a direct
+unlock for whatever they're going to do with AI, both today and several years down the road. So in that sense, I
+think the road maps are merging. It's not do AI separately on the side. It is more of invest in Snowflake to get your
+data house in gear and realize value from AI as you go along.
+......................................................................................................................................................................................................................................................
+Sanjit K. Singh
+Analyst, Morgan Stanley & Co. LLC Q
+Awesome. Appreciate the thoughts.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Kirk Materne with Evercore ISI. Your
+line is now open.
+......................................................................................................................................................................................................................................................
+Kirk Materne
+Analyst, Evercore ISI Q
+Yes. Thanks very much and congrats on a nice start to the year. Sridhar, I was wondering if you could just dive in
+a little bit on the comment around Snowpark and Dynamic Tables outperforming. I was just curious, and I'm sure
+it's a bit of both, how much is just the product maturation and sort of the readiness for customers to take those on
+versus some of the things you guys have got done on the go-to-market side over the last year in terms of
+enablement and – sales enablement with those products? Thanks.
+......................................................................................................................................................................................................................................................
+Michael Richards
+Analyst, RBC Capital Markets LLC A
+Good question. It's clearly going – clearly, it's going to be – it's both. You need great products that drive utilities.
+And in addition to those features that you mentioned, Snowpark and Dynamic Tables, I would say that our
+investments in things like Iceberg also vastly increased the scope of the kinds of things that our customers can do
+with the data. And similarly, Snowflake Connectors is then going to make more and more data available for these
+data engineering tools as well as analytics. And this is why Christian and I stress the end-to-end data life cycle a
+lot. And so our motto often is we want to be there from ingestion to insight when it comes to data.
+Having said that, we have hired, in addition to Mike, amazing leaders in sales that are in charge of driving these
+more specialized motions. Yes, not everybody in the Snowflake sales team is going to become an expert on our
+AI products or the latest advancements in Snowflake Connectors out of the box. So we have a specialist motion
+that is very targeted, that identifies the highest-value use cases that our customers have, pioneers
+implementations for them so that they can be used as a template to be repeated in other places and increasingly
+with our GSI partners. And so you need to be able to do both. You need great products that create value, but then
+a go-to-market team that can initiate the value and do the hard work of both establishing the flagship customers
+and then driving sales across the sales teams.
+......................................................................................................................................................................................................................................................
+Kirk Materne
+Analyst, Evercore ISI Q
+Great. Thank you. I'll see you in a couple of weeks.
+......................................................................................................................................................................................................................................................
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+9
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Operator: Thank you for your question. Next question is from the line of Raimo Lenschow with Barclays. Your
+line is now open.
+......................................................................................................................................................................................................................................................
+Raimo Lenschow
+Analyst, Barclays Capital, Inc. Q
+Hey. Perfect. Sridhar, if you – looking at Snowpark and the adoption there, how do you see this playing out at the
+moment and maybe more in the future in terms of like going wall to wall with one vendor versus having different
+pockets of data that are sitting in your system versus kind of other systems? How do you – what are you seeing
+there at the moment and how do you think that will evolve?
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+First of all, I think one of the things that is making us successful, Snowflake as a company, is our
+acknowledgment and willingness to work with customers that have complex data ecosystems. It's always going to
+be just actually true that there are on-prem legacy systems in most large customers, or that there are large data
+estates that are sitting in cloud storage.
+But I think what is unique about this moment is that customers are a little unhappy about needing to switch
+together many different tools in order to achieve even relatively simple things. If you think about it, if you wanted –
+if you and your company wanted to build a chatbot on a corpus sitting in SharePoint, it's rather painful if you have
+to use four different tools in order to produce that. And at the end of it, you won't even have your governance right
+because you have to go reinvent it. Part of what we want to be able to do for cases like that is have Snowflake
+Connectors point to the SharePoint repository. And if there is any augmentation or transformation of the data that
+is needed, you get that done, for example, with Snowpark, and then you create an index with Cortex Search and
+hook it up to a chatbot.
+I think we will continue to see specialist players that exist, and we partner with them and we value our
+partnerships with them. But there are also a number of use cases that are ripe for effectively like ease of use and
+consolidation. And that's the thing that we are leaning in.
+Anything to add, Christian?
+......................................................................................................................................................................................................................................................
+Christian Kleinerman
+Executive Vice President-Product, Snowflake, Inc. A
+Maybe super quickly, the other investment that we made is around Iceberg, which also creates an opportunity for
+customers to have an open architecture and be able to mix and match technologies as they see fit.
+......................................................................................................................................................................................................................................................
+Raimo Lenschow
+Analyst, Barclays Capital, Inc. Q
+Yes. Okay, perfect. And then one quick one for Mike. Obviously, it was very good opportunistic on the share
+buyback side this quarter. How do you think about that traction there for the rest of the year now that shares are
+starting to look better? Thank you.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+We will continue to evaluate share buyback on a quarterly basis, and we have no plans right now. We've been
+more opportunistic in terms of the buyback, but we do fully anticipate between now and 2027, we will utilize that.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+10
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Raimo Lenschow
+Analyst, Barclays Capital, Inc. Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Karl Keirstead with UBS. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Karl E. Keirstead
+Analyst, UBS Securities LLC Q
+Okay, great. Thanks. Mike, in the comments from you and Sridhar, there was really no mention of macro per se
+and no evidence in the numbers that you guys really saw much pressure. You certainly did back in 2022, 2023.
+And I'm just curious, Mike, how you would draw a contrast. Is it that a lot of the post-COVID optimization efforts
+are now largely behind you, Snowflake just in a better place in terms of the product portfolio? Or maybe just the
+degree of macro pressure, the wobbliness we've all seen in the last couple of months is just not as severe as you
+had to deal with in that post-COVID downturn? Some contrast might be helpful. Thank you.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+I would say coming out of COVID, I think it was very different. In that environment, we had a lot of digitally-native
+well-funded start-ups that were spending crazy and weren't really focused on costs as much. Our customer base
+has really evolved into some of the largest companies in the world that are much more mature, that are much
+more cost-focused. And I am not seeing any big optimizations planned within our customers like what we saw
+coming out of COVID with those.
+But I will remind you, our customers are constantly optimizing. That may be a little bit, but they're always looking
+to do things more efficiently and that will continue. I would say in terms of the macro right now, we really have not
+seen the impact of anything with the current – all the news on tariffs and other things today. I think if we would
+have seen that, we would have saw it in the number of new customers. We had a great new customer add and
+we had great additions to RPO with this confidence, and that shows the confidence our customers have on
+making big bets with Snowflake.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+The only small comment...
+......................................................................................................................................................................................................................................................
+Karl E. Keirstead
+Analyst, UBS Securities LLC Q
+That's helpful. Yes.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+...I'll add to what Mike said is that this is something that our sales team practices as well, which is to make sure
+that whenever a use case gets implemented, that they actually take the trouble to tidy things up and make sure
+that things are optimized because our sales team has learned, thanks to 2022 and 2023, that inefficient spend
+from customers inevitably leads to a contraction later anyway. And we are better off making sure that it is always
+efficient spend.
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+11
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Karl E. Keirstead
+Analyst, UBS Securities LLC Q
+Okay. Thanks. And maybe as a follow-up to Mike. Mike, did Snowflake have any exposure to any of the larger AI
+natives that on the margin might have given you a little extra oomph this quarter?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+Nothing extraordinary. We do have a number of the AI companies, our customers, but none of them are – they're
+all less than 1% of our revenue.
+......................................................................................................................................................................................................................................................
+Karl E. Keirstead
+Analyst, UBS Securities LLC Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Mark Murphy with JPMorgan. Your line
+is now open.
+......................................................................................................................................................................................................................................................
+Mark R. Murphy
+Analyst, JPMorgan Securities LLC Q
+Yes. Congrats on the great execution, Mike. Even if we were expecting a strong start to the year in terms of the
+hiring in sales and marketing, I don't think we would have pictured this many hires. It's a very big number. Can
+you speak to that dynamic and just whether – are you hiring into a pipeline that is strengthening around Cortex or
+Snowpark or some other opportunity that you see opening up?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+What I would say, Mark, is just our confidence we have in the business, and it's not just AI, it's everything that
+we're seeing in Snowflake. And as you know, Q1 is always our biggest hiring from a sales and marketing
+perspective because we try to get those people on board at the beginning of the year to deal – so they can be
+part of our sales kickoff and all of our sales and enablement that we do with the employees in the beginning of the
+year with all the new features and stuff.
+So I wouldn't read that much other than the confidence we see in our business. But as you know and we talked
+about, we're still really looking for operational excellence, and we are constantly looking at productivity of people
+and we will add people and we will stop adding if we don't see productivity pay off with those people.
+......................................................................................................................................................................................................................................................
+Mark R. Murphy
+Analyst, JPMorgan Securities LLC Q
+Okay, understood. And then Sridhar, can you speak to the federal government opportunity because you had
+touched on it in your comments? Do you think that DOGE is going to run through this initial process of eliminating
+wasteful spend and then maybe pivot back toward issuing some new RFPs? And then you've got the right
+certifications. I'm just curious if you think some agencies might be moving off-legacy on-prem data warehouses
+and maybe moving some of that onto Snowflake a little later in the year?
+......................................................................................................................................................................................................................................................
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+12
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+This is an active topic of conversation with many departments in the government. I was in D.C. a few weeks ago,
+met with a number of folks, and there is both an increasing awareness of what Snowflake can do. The fact that we
+have very low operational overhead figures prominently. And there's also a little bit of an active change where
+they're very much focused on how do they make sure that our data infrastructure is run efficiently.
+There's also a desire for things like cross-department sharing of data because that just leads to more efficiency.
+You'll have more to say on this topic. And Mike, our new CFO, is certainly actively looking at this area as well. We
+are optimistic and hopefully, we'll have more to say about this in the coming quarters.
+......................................................................................................................................................................................................................................................
+Mark R. Murphy
+Analyst, JPMorgan Securities LLC Q
+Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Kash Rangan with Goldman Sachs.
+Your line is now open.
+......................................................................................................................................................................................................................................................
+Kash Rangan
+Analyst, Goldman Sachs & Co. LLC Q
+Hi, thank you very much. It's really heartening to see the positive shift in the narrative, strategic positioning and
+the execution and handling of everything, so good to see that. Two things to – regardless, I mean, although you're
+approaching $4 billion run rate and growing 26%, 27%, is remarkable. If I could take the liberty of poking at the
+NRR, so 124% is good. Not many companies even reach that number at your scale, if they reach your scale. But
+you have had 135 new products launched in the most recent quarter, and Scarpelli will be quick to point out that
+the NRR metric is more of a 24-month trailing metric, which I completely appreciate.
+But why wouldn't and why shouldn't NRR be better, given the tail effect of new product introduction, the landing
+customers at record pace? And to Mike's point, the yield of enterprise customers is higher quality. You've got AI
+which didn't exist in 2022. Volatility, which should play to your advantage. So, anything on that front? And
+anything that your new CRO could do to land that number as good as it is, even higher? And I have a very quick
+follow-up question. Thank you so much.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+What I would say on that is a number of our newer customers that are not in that cohort are contributing to our
+growth beyond what the NRR is. And there was one of our large customers that grew so much last year. In this
+year, they're still doing very well but they didn't grow as much this year. And that's really the dynamics. It's those
+newer customers coupled with that. But once again, over time, NRR and revenue growth rate will converge as we
+become a more mature company.
+......................................................................................................................................................................................................................................................
+Kash Rangan
+Analyst, Goldman Sachs & Co. LLC Q
+Got it. And maybe one for you – thank you, Mike. Good to hear your voice. One for you, Sridhar. When you look
+at what's happening with the hyperscalers, I mean, Microsoft certainly talked about Fabric yesterday, Satya was
+on and build. Certainly, it seemed to be making a lot of progress. And the idea of data fabric at scale truly open to
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+13
+Copyright © 2001-2025 FactSet CallStreet, LLC
+enable AI, agentic architecture is a thing that's not lost on the big guys. Where does that lead Snowflake? And
+what is going to be the one or two or three things that the Snowflake's platform would do better, so you can build
+your vision towards being a $10-plus billion revenue company? That's it for me. Thank you.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+Just like – hyperscalers are formidable. They are amazing both from an engineering execution and business
+perspective, but they also work with Anthropic and OpenAI because they are the best – among the best model
+makers in the world. Similarly, we are very uniquely positioned in terms of being the excellent data platform that
+there is. And we've also learned how cooperating really leads to a better outcome, whether it is with AWS, which
+is our biggest partner, or more and more with Azure. There are many customers that Azure plus Snowflake is just
+a better outcome for everybody that is involved.
+And we have deep partnerships between the team. I think it was six, seven months ago that we announced, for
+example, that from Snowflake, you could read tables that are in OneLake, and we are also actively talking to them
+about OneLake being the data layer for Snowflake that's at the bottom. We also collaborate with them at the top,
+where we have things like Cortex Analyst and Cortex Agents be available as components in Office Copilot, for
+example.
+So we very much take this approach of finding customers, for example, who are on a modernization routine, or
+who want to get value, AI value from data and figure out how we can work together. Yes, there is competition, but
+I think there are more cases than not where we are very, very effectively working together, and it's on the uptick,
+especially with Azure.
+......................................................................................................................................................................................................................................................
+Kash Rangan
+Analyst, Goldman Sachs & Co. LLC Q
+That'll be huge. Thank you so much.
+......................................................................................................................................................................................................................................................
+Operator: Thank you your question. Next question is from the line of Matthew Hedberg with RBC. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Michael Richards
+Analyst, RBC Capital Markets LLC Q
+Hey, guys. This is Mike Richards on for Matt. Thanks for taking the question and congrats on the results here.
+You've clearly made great progress on the product front here, but I'm just curious how you feel about the maturity
+of the go-to-market motion to support your AI developments. That's it for me. Thanks.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+I'm actually even more pleased with how we've been able to seize the AI opportunity. I've spoken to you folks
+previously about how we created what we then called the AI ninjas, which were a group of solution engineers that
+were deeply versed with our AI products that could be very close to our sales teams from around the globe and
+just the excitement that our sales team feels about AI, but more importantly, their ability to drive AI use cases at
+scale to both pitch the vision, but also run POCs for them, win them and get them into production. That's been a
+pretty remarkable transformation for us. And we are now in the process of making this kind of specialized
+knowledge available to more and more of the sales team. I think it is this combination of specialist teams that
+know more about a sophisticated area like AI, again, doing the initial work but having more of the team participate
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+14
+Copyright © 2001-2025 FactSet CallStreet, LLC
+in it. That's been hugely positive for us. And we apply similar techniques in data engineering, though with data
+engineering, I would say it's much closer to the knowledge and skill set of more of our sellers. In some sense, it's
+more natural to them. But AI is doing exceptionally well as well. And we have assembled a team of both specialist
+sellers in AI, but also specialist technical experts that are driving change across the whole sales organization.
+That, combined with an increasing understanding of what it takes to drive great use cases in general, not just in AI
+and data engineering but also across other areas like analytics, really heralds a new era of data-driven, go-tomarket, which I'm very, very happy about.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Brad Zelnick with Deutsche Bank. Your
+line is now open.
+......................................................................................................................................................................................................................................................
+Brad Zelnick
+Analyst, Deutsche Bank Securities, Inc. Q
+Great. Thanks so much and congrats on a good start to the year. Sridhar, as we think – I just want to follow-up on
+Kirk's question. As we think about Snowpark adoption from here, beyond capturing maybe the Spark jobs where
+data was moving off platform, can you talk about success that you're seeing in penetrating more of the media or
+data science use cases and any anecdotal evidence that you're winning over the data science crowd and maybe
+the impact that Notebooks are having would be great? Thanks.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+Yes. I'll start the answer. Christian can add on. Our Notebooks are doing very well. Several thousand customers
+are actively using them. And there is increasing ability, for example, to train larger and larger machine learning
+models. As you folks know, like the world has made enormous amount of progress on the basis of machine
+learning, even though AI is all the hotness these days. But when it comes to many interesting use cases, for
+example, next best action prediction, which the likes of Hilton do, are how to route guests to the next ride, which
+customers like Disney do. These are all things that we have gained increasing market share around.
+Notebooks continue to expand. We continue to add product capabilities for training bigger, better, faster models
+on machines running in container services. These tend to be more technical in terms of the kind of people that are
+involved, the implementations that happen, but definitely appealing to the developers, the data scientists. That
+sort of product-led motion is something that is going on pretty well. Christian?
+......................................................................................................................................................................................................................................................
+Christian Kleinerman
+Executive Vice President-Product, Snowflake, Inc. A
+Yeah. One quick addition is Snowpark is a collection of libraries and capabilities that help customers do a variety
+of activities. We see lots of people leveraging it for unstructured data processing, which is core part of what we're
+doing. As Sridhar said, we're making more unstructured data available to customers. So, Snowpark for extracting
+structure and signal and doing traditional ML on unstructured data is a common use case we're seeing.
+......................................................................................................................................................................................................................................................
+Brad Zelnick
+Analyst, Deutsche Bank Securities, Inc. Q
+Thank you. Maybe just a quick follow-up, Mike. Guidance implies a robust ramp through the remainder of the
+year. And I think we all see the pace of innovation. Excited for what's to come at Summit. But what, if anything,
+would you call out that underpins your confidence, things we might not be thinking about or any key assumptions
+worth calling out? Thank you.
+......................................................................................................................................................................................................................................................
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+15
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+I would just say, as I said, our guidance is based upon the observed behavior we see within our customers,
+coupled with we spend a lot of time than we have for the last five quarters now, and really identifying new
+workloads going to production. And we have a pretty good visibility of those, and we're very close with our
+customers and we know what we're doing. Migrations are moving nicely. We announced we're – we've made
+SnowConvert available to all of our customers and partners, and we're seeing an uptick in the amount of usage
+around that, and that's what gives us the confidence in the guidance that we gave.
+......................................................................................................................................................................................................................................................
+Brad Zelnick
+Analyst, Deutsche Bank Securities, Inc. Q
+Great to hear. Thanks again.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Brent Thill with Jefferies. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Q
+This is [indiscernible] (00:43:25) on for Brent Thill. Thanks for taking the question. With features like Cortex
+Analyst and Cortex Agents that can help users to write more efficient queries, like are you seeing more query
+optimization as Cortex AI adoption picks up? And what's been the net impact on usage so far in terms of net new
+queries and query optimizations? Thanks.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+With things like Cortex Analyst, if anything, the end users are a step removed from writing SQL queries, the user
+semantic model to aid in figuring out the intent of the user query and then auto-generate the SQL promise.
+Certainly, we've made available Copilot-like features, both for what we call worksheets, which is where people
+write SQL or Python, but also inside Notebooks.
+To be honest with you, I think there is a huge amount of innovation that is coming there, some of which we will
+show at Summit. The bar for people being able to write code now are modern dollar per platforms like Cursor,
+which – and get a Copilot and others, which can massively increase productivity in terms of the volume of queries
+that can be written, as well as the amount of work that can be done.
+While we don't have concrete measurements of this leads to X percent more query, we are very happy about
+being able to help our customers write queries faster or write code faster and be able to debug it faster as well.
+......................................................................................................................................................................................................................................................
+Christian Kleinerman
+Executive Vice President-Product, Snowflake, Inc. A
+Yeah. We're saying in these calls and other forums that our preference, our goal is to make sure that customers
+are optimized all the time. I think none of us like to go and spend money and then optimize and go up and down.
+So, we put a lot of effort in technology. Some of the Cortex examples that you have are part of that. But query
+insights, cost insights, governance insights all over this product, how we help customers be in a better optimized
+state all along.
+......................................................................................................................................................................................................................................................
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+16
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Operator: Thank you for your question. Next question is from the line of Patrick Colville with Scotiabank. Your
+line is now open.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Scotiabank Q
+Oh hi. Thank you so much for taking my question. I guess my one is for Sridhar. Last year, the Arctic LLM was
+launched. My question is how important are first-party foundation models to Snowflake's strategy as of today or is
+there like a slight pivot more to kind of partnering with third-party foundation models?
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+I've said this before. I think the business of training a truly large foundation model has gotten to be a very
+expensive proposition. We have an amazing team of AI researchers, but they tend to focus more on things like
+post-training. We have published blogs, for example, about how we can be much more efficient, like much more
+correct at generating SQL queries by using post-training techniques. This makes Cortex Analyst better.
+I think at least for now, the era of us training, let's call it, frontier foundation model is now something that we are
+actively looking at. But the research team continues to do amazing work, as I said, in post-training, but also in
+areas like inference optimization, which has a huge impact on latency, it has a huge impact on margins in AI. So,
+we continue to have a robust presence in the area, but we work with partners. Meta is a big partner. We were a
+day one launch partner for the Llama 4 model that came out. We actively collaborate with Anthropic, with OpenAI,
+Mistral, [ph] BReka (00:47:44), lots of model providers.
+The one fun thing I'll add is that in the area of embedding models, these are small unsung heroes, but they are
+the models that essentially produce fingerprints of documents that you want to index for chatbots, for example.
+They have world-class embedding models that we have open source. We have to be opportunistic about where
+we can create value because we simply can't afford to spend the billions of dollars that it takes to be a frontier
+research lab today.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Scotiabank Q
+Crystal clear. Thank you, Sridhar. And can I just squeeze in a follow-on for Mike? I mean, the bottom line is
+clearly less of a focus when you're growing the top line, 26%, with the possibility to reaccelerate in the back half of
+the fiscal year. But one key operating margin was strong. Nonetheless, the fiscal year op margin was left
+unchanged as was the fiscal year free cash flow margin target. So, I guess what were the puts and takes there as
+to why leave those targets unchanged?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+Well, what I would say is in Q2 is when we have our big user event, and that's a very expensive event, Summit,
+that we operate, and that typically has an impact on our operating margin in Q2, and that's factored in. And we'll
+just continue to revise our forecast for the year on a quarterly basis going forward.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+17
+Copyright © 2001-2025 FactSet CallStreet, LLC
+I actually think that we are being pretty thoughtful when it comes to expanding our operating margin. It was 4% in
+Q1 last year. It's 9% Q1 this year. And this is part of the benefit of practicing what we preach around AI. We
+spend a lot of time figuring out how engineers can be more productive with AI, how we can get more work done.
+Similarly in the sales team, we launched to automate many of the tasks that our sales team doesn't like to do
+anyway so that they can be more productive in front of sellers. We feel that we are in quite a bit of a Goldilocks
+moment where we can continue to grow revenue very strongly while continuing to be very efficient when it comes
+to operating margin and free cash flow.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Alex Zukin with Wolfe Research. Your
+line is now open.
+......................................................................................................................................................................................................................................................
+Alex Zukin
+Analyst, Wolfe Research LLC Q
+Hey, guys. Thanks for taking my question. Maybe just a high-level one first for you, Sridhar or Mike. I guess,
+again, it seems like what we're hearing from you is the demand environment is really unchanged, untouched by all
+the macro headlines. You're seeing new product adoption ahead of expectations. So maybe just the first one, are
+you seeing a change? Like is this being driven by any kind of identifiable AI tailwinds, you're seeing a change with
+how customers are either investing in their AI stack with Snowflake or building agents? Specifically, they're
+building more on data rather than just focusing on the models. Like maybe just help us understand and
+conceptualize the AI tailwind or you're placed within these AI budgets that a lot of your large customers clearly are
+making those bets.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+As I was saying earlier, I think more and more people have internalized that to be good at AI, your data needs to
+be in here. And what we have done on our side is to create a product, whether it's a semantic model that sits very
+close to the data, usable by anyone, mind you, not just by Snowflake, but also products like Cortex Analyst that
+can actually unlock the value of that data, both by immediate use, like a chatbot on a specific data set, but much
+more importantly, for use in an agentic workflow. So, more and more of our conversations can now focus on what
+creates value from a business perspective.
+So AI for Snowflake, rather than being this additional thing that we do, in some ways, becomes the natural end
+state for what investing well in data means. And of course, we are using AI ourselves both within the company,
+but also in different aspects of the product. We talked about code generation and Notebooks being accelerated by
+cursor-like experiences.
+On the other hand, we make SnowConvert, our conversion tool, free so that anyone could use them. And we're
+bringing agentic workflows into SnowConvert so that people can do things like testing with synthetic data far
+sooner than what they would have done in a traditional waterfall-style migration. I'd say it's a combination of all of
+these trends that are driving Snowflake forward.
+......................................................................................................................................................................................................................................................
+Alex Zukin
+Analyst, Wolfe Research LLC Q
+Excellent. And maybe just as a follow-up, maybe Sridhar, for you or for Christian, there's been a lot of excitement
+that we've sensed around Gen2 and particularly the performance improvements that your customers are seeing. I
+guess maybe just touch on, is this potentially leading to unlocking new use cases around the capabilities
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+18
+Copyright © 2001-2025 FactSet CallStreet, LLC
+introduced or how should we think about the potential for some of these new functions as they percolate in the
+platform?
+......................................................................................................................................................................................................................................................
+Christian Kleinerman
+Executive Vice President-Product, Snowflake, Inc. A
+Yeah. The – Christian here. The best way to think about Gen2 is our latest and greatest compute environment.
+What we've done is we've combined the latest hardware instances that we can get from the cloud providers,
+which are often faster but also more expensive with a good number of software optimizations and improvements
+that we have, and at the end of the day, is part of our eternal ongoing promise to customers to always deliver the
+best price performance of the market. Some of the benchmarks that we have on Gen2 are completely
+phenomenal relative both to Snowflake, say, a year ago, but also to many of the competitive patterns are there.
+So think of it as price performance, which continue to correlate with time to insight and time to value, and it's a
+material step forward.
+......................................................................................................................................................................................................................................................
+Alex Zukin
+Analyst, Wolfe Research LLC Q
+Perfect. Thank you, guys. Congrats.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Joel Fishbein with Truist. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Joel P. Fishbein
+Analyst, Truist Securities, Inc. Q
+Thanks for taking the question. Mike, you mentioned earlier on the call you had the strongest new logo quarter,
+which was fantastic. Just a question around that. Are you seeing – is this a result of better, stronger execution and
+strategic focus or are you seeing a more favorable win rate in competitive environment? And just as a follow-up,
+too, to that is, of those two $100 million deals, can you just tell us which verticals they were in? Thanks.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+So on the $100 million deals, they were both in the financial services vertical. And what I would say on the
+number of new customers, this is not a result of something we put in place this quarter. We started last year with
+really breaking out an acquisition team that is just focused on new logos, and we're seeing the benefits of the
+groundwork that we put in place last year. And we're pleased with the results. I think we have a very good leader
+there, and we're replicating what we're doing in North America and EMEA as well, too. So, we're pleased with the
+number of new logos that we've added, and it's a big focus of ours.
+......................................................................................................................................................................................................................................................
+Joel P. Fishbein
+Analyst, Truist Securities, Inc. Q
+Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Brad Reback with Stifel. Your line is
+now open.
+......................................................................................................................................................................................................................................................
+Brad Reback
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+19
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Great. Thanks very much. Last quarter, Mike, you talked about some changes to the sales force comp plan as
+related to bookings and commits, not just consumption. Maybe an update on how that's tracking and if that had
+any impact on the strong bookings in the quarter.
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+Yeah. Obviously, I think it helped, but the real strong bookings for those two big deals that we knew were going to
+come in, I would say, I think in general, salespeople are happy with having a bookings component, but still, the
+principal driver is consumption revenue. And as a reminder, we paid on bookings [ph] a step (00:56:26) last year.
+So, it's not like we weren't doing it last year. We just are giving them a quote in how – for bookings as well, too.
+And I think it's going to take some time to see the real roots of that change, whether that worked or not, but I'm
+pleased for Q1. I think we had a very solid Q1 and it definitely helped.
+......................................................................................................................................................................................................................................................
+Brad Reback
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+That's great. And then just a quick one, getting into the weeds a little bit, CapEx was up a bunch to a fairly high
+number. Was there one-time items or is this the new level?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+No. The CapEx was really associated with our new headquarters in San Mateo. As I spoke about previously, we
+signed a new lease in our Menlo Park office and there's a fair bit of CapEx that went into that, as well as in
+Bellevue. We talked about – I talked about that before, too. That really – that just opened this week, that office,
+and there was a fair bit of CapEx that went into that as well, too. I'm not expecting any major office buildouts the
+next couple years actually now.
+......................................................................................................................................................................................................................................................
+Brad Reback
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+Perfect. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. Next question is from the line of Tyler Radke with Citi. Your line is now
+open.
+......................................................................................................................................................................................................................................................
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc. Q
+Yeah. Thanks for taking the question here. Mike, you talked about some strength in technology customers in the
+quarter. I was wondering if you could double-click on that. And what are you seeing specifically among kind of
+larger AI-native customers in terms of their consumption?
+......................................................................................................................................................................................................................................................
+Michael P. Scarpelli
+Chief Financial Officer, Snowflake, Inc. A
+It's good, but as I called it before, we have a number of AI companies, and they're still less than 1% of our
+[indiscernible] (00:58:07).
+......................................................................................................................................................................................................................................................
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc. Q
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+20
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Okay. Great. And the follow-up question I had was for Sridhar. We recently saw Databricks acquire Neon, which
+was a company that Snowflake Ventures had invested in. And I'm just curious if we get an update on your
+strategy around Unistore and just sort of your view on the positioning over some of these serverless Postgres
+databases that are out there in the market.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc. A
+We've believed in transactional systems for a while. This is why we got to work on Unistore, what, five years ago.
+Unistore, the product, is doing very well. Postgres as a standard is nothing to be stopped at and it's adopted
+widely. But we are pretty happy with what we have invested in terms of transactional stores so far, and we will
+continue to invest in the area because it's a very natural addition to what we do.
+......................................................................................................................................................................................................................................................
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc. Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you for your question. There are no additional questions waiting at this time. So, I'll pass the
+call back to Sridhar for any closing remarks.
+......................................................................................................................................................................................................................................................
+Sridhar Ramaswamy
+Chief Executive Officer & Director, Snowflake, Inc.
+Thank you. In closing, Snowflake is at the center of today's enterprise AI evolution. Our focus on making
+Snowflake easy to use, connected to enable fluid access to data wherever it sits, and trusted for enterprise-grade
+performance is what makes us differentiated beloved by our customers. And we are committed to supporting
+them through their end-to-end data journey, from inception to insights. Our product revenue growth and strong
+outlook for FY 2026 demonstrates our continued ability to execute at scale. Our pace of innovation, coupled with
+our ability to bring products to market quickly, is driving high growth, and we are committed to maintaining that
+momentum. We believe Snowflake's long-term profile is one that showcases durable, high growth and continued
+margin expansion. It's an exciting time for our company, and I look forward to sharing more of our progress in the
+quarters ahead. Thank you, all, for joining us.
+......................................................................................................................................................................................................................................................
+Operator: That concludes the call. Thank you for joining. You may now disconnect your...
+[Abrupt End]
+Snowflake, Inc. (SNOW)
+Q1 2026 Earnings Call
+Corrected Transcript
+21-May-2025
+1-877-FACTSET www.callstreet.com
+21
+Copyright © 2001-2025 FactSet CallStreet, LLC
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR RE VENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2025 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.

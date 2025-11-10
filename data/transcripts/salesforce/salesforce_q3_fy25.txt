@@ -1,0 +1,609 @@
+Salesforce, Inc. NYSE:CRM
+FQ3 2025 Earnings Call Transcripts
+Tuesday, December 3, 2024 10:00 PM GMT
+
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Call Participants
+EXECUTIVES
+Amy E. Weaver
+President & CFO
+Brian Millham
+President & COO
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+Michael Spencer
+Executive Vice President of Investor
+Relations
+ANALYSTS
+Brad Alan Zelnick
+Deutsche Bank AG, Research Division
+Brent Alan Bracelin
+Piper Sandler & Co., Research Division
+Brent John Thill
+Jefferies LLC, Research Division
+Keith Weiss
+Morgan Stanley, Research Division
+Kirk Materne
+Evercore ISI Institutional Equities,
+Research Division
+Raimo Lenschow
+Barclays Bank PLC, Research Division
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 4
+Presentation
+Operator
+Welcome to Salesforce's Fiscal 2025 Third Quarter Results Conference Call. [Operator Instructions] I would now like to hand the
+conference over to your speaker, Mike Spencer, Executive Vice President of Finance and Strategy and Investor Relations. Sir, you
+may begin.
+Michael Spencer
+Executive Vice President of Investor Relations
+Thanks, Regina. Good afternoon, and thanks for joining us today on our fiscal 2025 third quarter results conference call. Our press
+release, SEC filings and a replay of today's call can be found on our website. Joining me on the call today is Marc Benioff, Chair and
+CEO; Amy Weaver, President and Chief Financial Officer; and Brian Millham, President and Chief Operating Officer.
+As a reminder, our commentary today will include non-GAAP measures. Reconciliations between our GAAP and non-GAAP results
+and guidance can be found in our earnings materials and press release. Some of our comments today may contain forward-looking
+statements that are subject to risks, uncertainties and assumptions which could change. Should any of these risks materialize or should
+our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements. A
+description of these risks and uncertainties and assumptions and other factors that could affect our financial results is included in our
+SEC filings, including our most recent report on Forms 10-K, 10-Q and any other SEC filings. Except as required by law, we do not
+undertake any responsibility to update these forward-looking statements.
+And with that, let me hand the call over to Marc.
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+All right. Well, thanks so much, Mike. And I just really appreciate everybody being on the call today. We have so many exciting
+things to talk about and I hope you all had a great Thanksgiving. I'm incredibly excited about these results that we've delivered in the
+quarter and very strong performance across revenue, operating margin, cRPO and cash flow, but as I'm sure everybody knows on
+the quarter, these numbers are not what we're really excited about at Salesforce. And while the quarter numbers are fantastic, the real
+excitement is really what is hitting with the technology, and I'm really excited to talk to you about that. But before we do, let's do talk
+about that incredible financial transformation that we have undergone over the last few years. You're going to hear more from Brian
+and Amy about what we're doing to redefine success, delivering this kind of financial value for our customers, but achieving these
+incredible results. So this is about so much more than another great quarter. We're really at the edge of a revolutionary transformation.
+This is really the rise of digital labor.
+Now for the last -- I would say for the last 25 years at Salesforce, and we've been helping companies to manage and share their
+information and you can see that across our whole product line and whether it's in sales or service or marketing or commerce, whether
+it's analytics, Slack, across the board, but now we've really created a whole new market, a new TAM, a TAM that is so much bigger
+and so much more exciting than the data management market that it's hard to get our head completely around. This is the market for
+digital labor. And Salesforce has become, right out of the gate here, the largest supplier of digital labor and this is just the beginning.
+And it's all powered by these autonomous AI agents. All of you know that this is fundamentally reshaping how businesses operate.
+It's fundamentally shaping how we operate our business and how we think about the industry itself and how you're thinking about the
+industry, how we're thinking about Salesforce. And with Salesforce, agent force, we're not just imagining this future. We're already
+delivering it. And you also know that in the last week of the quarter, Agentforce went production. We delivered 200 deals, and our
+pipeline is incredible for future transactions. We can talk about that with you on the call, but we've never seen anything like it. We
+don't know how to characterize it. This is really a moment where productivity is no longer tied to workforce growth, but through this
+intelligent technology that can be scaled without limits.
+And Agentforce represents this next evolution of Salesforce. This is a platform now, Salesforce as a platform or AI agents work
+alongside humans in a digital workforce that amplifies and augments human capabilities and delivers with unrivaled speed, and
+you can see that I'm going to get into it. You go to help.salesforce.com, you can see we've unleashed that on our entire support
+organization already. We've created this incredible Agentic layer around the whole company. And this is just the beginning of a
+complete digital transformation for the world. On top of the Agentic layer, we'll soon see a robotic layer as well where these agents
+will manifest into robots.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 5
+And how all this is going to change society is only visible today in the movies or in our imaginations, but we can see it unfolding right
+here through this company, Salesforce. And that is what we are really excited about. These agents are not tools. They are becoming
+collaborators. They're working 24/7 to analyze data, make decisions, take action, and we can all start to picture this enterprise
+managing millions of customer interactions daily with Agentforce seamlessly resolving issues, processing transactions, anticipating
+customer needs, freeing up humans to focus on the strategic initiatives and building meaningful relationships. And this is going to
+evolve into customers that we have, whether it could be a large hospital or a large hotel where not only are the agents working 24/7,
+but robots are also working side-by-side with humans, robots manifestations of agents this idea that it's all happening before our eyes
+and that this isn't just some far-off future. It's happening right now.
+And with Agentforce, we're unleashing this new era of digital labor for every business, in every industry. And the implications are
+just simply profound. For decades, economic growth dependent on expanding the human workforce. It was all about getting more
+labor. But with labor and with the labor force stagnating globally, Agentforce is unlocking a new path forward. It's a new level of
+growth for the world and for our GDP, and businesses no longer need to choose between scale and efficiency with agents, they can
+achieve both. And our customers are already experiencing this transformation. Agentforce is deflecting service cases and resolving
+issues, processing, qualifying leads, helping close more deals, creating optimizing marketing campaigns, all at an unprecedented scale,
+24/7. We all saw this unfolding at Dreamforce in San Francisco. You were all there. I really appreciate you all coming and being
+with us. But I think what you saw and what was remarkable was the huge thirst that our customers had for this and how they built
+more than 10,000 agents in 3 days. And I think you know that we then unleashed a world tour of that program, and we have now built
+thousands and thousands of more agents in these world tours all over the world, giving our customers the ability to understand and get
+their hands on the technology and envision for their own companies what they're going to do. And now we're seeing this demand for
+Agentforce like, as I've said, just became available on October 24th, and we're already seeing this incredible velocity. More than 200
+Agentforce deals just in Q3, it doesn't mean anything because the pipeline is in the thousands or potential transactions that are coming
+up in future quarters.
+So companies like FedEx, Adecco, Accenture, Ace Hardware, IBM, RBC Wealth Management, and many more are now building
+their digital labor forces on the Salesforce platform with Agentforce. So that is the largest and most important companies in the world
+across all geographies, across all industries are now building and delivering agents. And Salesforce is unique as we are perhaps one of
+the only companies at scale in enterprise that is now delivering this globally.
+We could not be more excited. We could not be more proud of our teams, our technology teams, our engineering teams, our product
+teams, our marketing teams, and our distribution teams who are getting this to market first. And look, we are not only prepared for this
+Agentforce feature, we're leading it for our customers and ourselves. And as you know, we pride ourselves on being customer zero for
+all of our products, and Agentforce is no exception. We're excited to share that Agentforce is now live on help.salesforce.com. I hope
+that you've all gone there and checked it out. And you might have also noticed that we have a test going on for our U.S. customers,
+where we put an agent at the front of our website as well to kind of see what that is like. This is an ungrounded agent, but it's really a
+vision for what the potential of what agents can be doing at every part of marketing.
+Our help portal, help.salesforce.com, which is now live. This portal, this is our primary support mechanism for our customers. It lets
+them authenticate in, it then becomes grounded with the agent, and that Help portal already is handling 60 million sessions and more
+than 2 million support cases every year. Now that is 100% on Agentforce. It's going to have dramatic implications for our company
+from not only the technology point of view, but also from a human resource point of view, where we can really start to look at how
+are we going to rebalance our headcount into areas that now are fully automated, and 2, into areas that are critical for us to grow like
+distribution. I think you've all heard that we're trying to hire 1,000, 2,000 more salespeople because we see not only maximize our
+productivity of our current Salesforce over the last couple of years, but we just need to grow and expand to reflect this incredible
+distribution opportunity. It's a once-in-a-lifetime opportunity to really help customers achieve something they could never have
+done before. And while these legacy chatbots have handled these basic tasks like password resets and other basic mundane things,
+Agentforce is really unlocking an entirely new level of digital intelligence and operational efficiency at this incredible scale.
+Now when you use help.salesforce.com, especially as authenticated users, as I mentioned, you're going to see this incredible level
+of accuracy and responsiveness and you're going to see remarkably low hallucinogenic performance whether for solving simple
+queries or navigating complex service issues because Agentforce is not just grounded in our Salesforce data and metadata including
+the repository of 740,000 documents and 17 languages, it's also grounded in each customer's data, their purchases, returns, that data
+it's that 200 petabytes or through 200 to 300 petabytes of Salesforce data that we have, that gives us this kind of, I would say, almost
+unfair advantage with Agentforce because our agents are going to be more accurate in the least hallucinogenic of any because they
+have access to this incredible capability.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 6
+And Agentforce can instantly reason over this vast amounts of data, deliver precise personalized answers with citations in seconds,
+and Agentforce can seamlessly hand off to support engineers, delivering them complete summary and recommendation as well. And
+you can all try this today. This isn't some fantasy land future idea, this is today reality. And I just want to compare and contrast that
+against other companies who say they are doing enterprise AI. You can look at even Microsoft. We all know about Copilot, it's been
+out, it's been touted now for a couple of years. We've heard about Copilot. We've seen the demo. In many ways, it's just repackaged
+ChatGPT. You can really see the difference where Salesforce now can operate its company on our platform. And I don't think you're
+going to find that on Microsoft's website, are you? I know many of you are specialists in Microsoft, go ahead and try to find this
+running on microsoft.com, and I'll be looking forward to getting your responses.
+Look, we expect that our own transformation with Agentforce on help.salesforce.com and in many other areas of our company, it is
+going to deflect between a quarter and a half of our annual case volume and in optimistic cases, probably much, much more of that.
+Agentforce is going to deliver the same unprecedented accuracy, speed and cost savings to our customers.
+Now when we look at customers that are starting to implement this today, there's a lot of great examples. One of them is the smart
+home security provider, Vivint. They've struggled with this high volume of support calls, a high churn rate for service reps. It's a
+common story. But now using the Agentforce, Vivint has created a digital support staff to autonomously provide support through
+their app, their website, troubleshooting, a broad variety of issues across all their customer touch points. And in addition, Vivint is
+planning to utilize Agentforce to further automate technician scheduling, payment request, proactive issue resolution, the use of device
+telemetry because Agentforce is across the entire Salesforce product line and including Slack.
+So now here's another great customer example that's already incredible to work. They've already done to get this running and going
+in their company Adecco, the world's leading provider of talent solutions, handling 300 million job applications annually, but
+historically, they have just not been able to go through or respond in a timely way, of course, to the vast majority of applications that
+they're gating, but now the Agentforce is going to operate an incredible scale, sorting through the millions of resumes, 24/7 matching
+candidates to opportunities proactively prequalifying them for recruiters. And in addition, Agentforce can also assess candidates
+helping them to refine their resumes, giving them a better chance of qualifying for a role.
+Now listen, we have been talking on these earnings calls for, I don't know, more than a year, maybe 2 years, why Salesforce has an
+unfair advantage in AI? I think we took one earnings call just to talk about the power of data and what the power of data meant for
+Salesforce. Now you're really seeing that get manifested right into the customer themselves in getting that value. We are not just
+delivering the philosophy anymore, we're really showing you that, yes, Salesforce is already the largest supplier of enterprise AI in
+the world, 2 trillion Einstein transactions a week, no one is delivering this level of enterprise AI that we are. But now we're not just
+delivering that Einstein transaction, we're delivering these incredible Agentforce capabilities as well. This is a bold leap into the future
+of work where AI agents with humans unite to transform all of our customer interactions.
+Another powerful example is a nonprofit, College Possible. College possible matches eligible students with counselors to help them
+navigate and become ready for college. And in California, for example, the statewide average stands at slightly over 1 counselor for
+every 500 students. It just isn't enough. Where are we going to get all that labor? Well, we know whether we're going to get that labor,
+we're going to get it from Agentforce. This means the vast majority of students are not getting the help they need, and now they are
+going to get the help they need. Colleges Possible creates a virtual counselor built on Agentforce under a week, they already had
+all the data. They have the metadata. They already knew the students. They already had all of the capabilities built into their whole
+Salesforce application. It was just a flip of a switch. I mean you have to think about that for just a second. We have 135,000 customers
+and those 135,000 customers have now been endowed with Agentforce. It's in every single one of those implementations today. It's
+just a switch that needs to get flipped on. And our job is to motivate, to excite, to inspire our customers to turn that switch on right
+now.
+And when you look at College Possible, yes, it's very exciting. Any high school student will have access to this college counselor that
+knows about their goals, their transcripts, all the information on the colleges that can deliver this highly precise experience for them.
+But why? It's because all of the work and the data and the capability that College Possible has put into Salesforce over the years and
+years that they had it. It's not the week that it took to get them to turn it on. They have done a lot of work. And when you look at those
+135,000 customers that we have, they have so much work in the Salesforce to organize and get all that data and workflow ready and
+now they can just turn those agents on. Now we're working with across all kinds of industries to do so many different and exciting
+areas. We could go on and on and on.
+Now over the last few years, we've really aggressively invested in integrating all of our apps on a single core platform with shared
+services for security, workflow, user interfaces, and more. We've been rewriting all of our acquisitions into that common area. We're
+really looking at how do we take all of our applications and all of our acquisitions, everything and delivered into one consistent
+platform, we call that more Core internally inside Salesforce. And when you look at that more Core initiative, I don't think there's
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 7
+anyone who delivers this comprehensive platform: Sales, service, marketing, commerce, analytics, Slack, all of it as one piece of code.
+And then now deeply integrated in that 1 piece of code is also our data cloud. That is a key part of our strategy, which continues to
+have this phenomenal momentum as well to help customers unify and federate with zero-copy data access across all their data and
+metadata, which is crucial for AI to work.
+And now that third layer is really opening up for us, which is this agentic layer. We have built this agentic layer that takes advantage
+of all the investments in Salesforce for our customers and made it in our platform. It's really these 3 layers. And in these 3 layers
+that form a complete AI system for enterprises and really uniquely differentiate Salesforce, uniquely differentiate Agentforce
+from every other AI platform that this is one piece of code. This isn't like 3 systems. It's not a bunch of different apps all running
+independently. This is all one piece of code. That's why it works so well, by the way, because it is 1 platform. And we understand
+that this extraordinary technology is -- also require us to have some kind of extraordinary responsibility. That Salesforce trust is our
+#1 value. It's never been more critical, especially with this pioneering new technology. We're committed to building Agentforce with
+accountability and fairness and transparency at the core, and we've been focusing on empowering our customers and partners to also
+navigate this era, equipping them with the tool skills and education of thrive in an AI-driven economy. You know that because you've
+heard so many presentations and thoughts on this that we've put together with our team and because we -- obviously, this is just our
+latest moment in AI.
+So the transformation is not without challenges. Jobs are going to evolve, roles are going to shift, and businesses will need to adapt.
+And listen, at Salesforce, jobs are going to evolve and roles will shift and businesses will need to adapt as well. We're all going
+to need to rebalance our workforce. This is the agents take on more of the workforce. And then we can rebalance and reshape our
+companies into new ways. History has shown us that with every disruption comes an explosion of new opportunities. This morning,
+I was on the phone with one of our large customers, and they were telling me how they're targeting inside their company, 25% more
+efficiency with artificial intelligence, incredible goal. This is an incredible moment. Entire industries are going to emerge, fueled by
+innovation and creativity of people using Agentforce to solve challenges to reach new heights. It's just the beginning of a level of
+innovation and change that none of us have really ever seen. It's a radical expansion of our total addressable market. And it's really the
+beginning of a change that we're going to see that's including agents. It's going to include robots. That's going to include the use of the
+data and the metadata and all the technology that we've been pioneering now for the last several decades.
+This is more than a technological revolution. It's an opportunity to create a better future for all of us. And at Salesforce, we believe,
+business is the greatest platform for change. And with Agentforce, we're leading the way into a new horizon of digital labor. We're
+excited to take this vision for deploying a digital labor force for every organization even further. And you're going to -- now, and this
+is incredible, even to be able to say this because we just introduced Agentforce in October, but I want to invite all of you to join us for
+the launch of Agentforce 2.0. And it is incredible what you are going to see the advancements in the technology already are amazing
+and accuracy and the ability to deliver even additional value. And we hope that you're going to join us in San Francisco. This is going
+to happen on December 17. You'll see Agentforce 2.0 for the first time, and you're not going to believe it, you're not going to want to
+miss it. And now over to Brian.
+Brian Millham
+President & COO
+Thanks, Marc. Really appreciate it. I've been at Salesforce almost as long as Marc and Parker, and this is the most exciting time in
+my career. As a company, we redefined enterprise software with cloud and social, and mobile and predictive AI over the past 25
+years and now we're doing it again with Agentforce. As Marc said, this is the beginning of a revolutionary transformation that will
+fundamentally redefine how we work and how work gets done.
+Our strong results in the quarter reflect the trust our customers, partners and stakeholders have in the Salesforce to lead them into this
+new agent-first world. We made great progress in the quarter against Salesforce growth pillars, first and foremost with Agentforce and
+Data Cloud but also with our multi-cloud deals, international expansion, industry solutions and our ecosystem. Agentforce will enable
+companies to achieve a new era of abundance with more efficiency, more productivity, even stronger customer relationships, higher
+margins and higher revenues across every industry. It's a new technology model and a new business model, and we built a complete
+agent-first platform for customers that will save them millions of dollars and provide them with limitless workforces to drive greater
+value.
+Companies like reMarkable and Wiley are already seeing incredible results. Wiley, an early adopter, is resolving cases over 40%
+faster with Agentforce than their previous chat bot. Heathrow Airport, one of the busiest airports in the world, will be able to respond
+to thousands of travelers inquiries instantly, accurately and simultaneously. SharkNinja, a new logo in the quarter, chose Agentforce
+and Commerce Cloud to deliver 24/7 personalized support for customers across 28 international markets and unifying its service
+operations.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 8
+Our customer success with Agentforce and our AI solutions is driving strong results. In Q3, the number of wins greater than $1
+million with AI more than tripled year-over-year. And we signed more than 2,000 AI deals, including more than the 200 Agentforce
+wins that Marc shared. To capture this increased demand for Agentforce, we're hiring 1,400 AEs globally in our fourth quarter, and
+we're also using new sales SDR agent and sales coaching agent to augment every seller.
+We're also seeing amazing Agentforce energy across the ecosystem with our global partners involved in 75% of our Q3 Agentforce
+deals and 9 of our top 10 wins in the quarter. Over 80,000 system integrators have completed Agentforce training and hundreds of
+ISVs and technology partners are building and selling agents. And our partners are also becoming agent-first enterprises themselves.
+In the quarter, Accenture chose Agentforce to streamline sales operations and enhance bid management for its 52,000 global sellers.
+By integrating sales coach and custom AI agents, Agentforce is improving deal quality and targeting a 75% boost in bid coverage.
+We see an incredible future with Agentforce, not only for our customers, but also for us. As customer 0, we can leverage Agentforce
+ourselves to realize the benefits of digital labor for us to amplify and augment our human workforce. Marc talked about how we
+reimagine Salesforce customer service with Agentforce. We're also deploying Agentforce to engage our prospects on salesforce.com,
+answering their questions 24/7 as well as handing them off to our SDR team. You can see it for yourself and test it out on our home
+page.
+We'll use our new Agentforce SDR agent to further automate top of funnel activities when gatherings leads, lead data for providing
+education and qualifying prospects and booking meetings. Initiatives like this and many others mean Salesforce will become a new
+lever for productivity, growth and efficiency for Salesforce, which should save millions of hours and free up hundreds of millions of
+dollars to reinvest into our strategic growth initiatives.
+Become an agent-first enterprise starts with having unified data. That's why we continue to see amazing momentum with Data Cloud,
+which was included in 8 of our top 10 wins in the quarter. Today, 25% of the Fortune 100 are Data Cloud customers. Marc mentioned
+the Adecco Group, they're centralizing more than 40 instances and legacy systems with Data Cloud to build a foundation to implement
+Agentforce at scale. Usage is a key indicator for our products' value to our customers, and our customers are now processing 767
+trillion records every month. Indeed, the world's leading job site hires 3 people every second on its platform. Using Data Cloud as
+its go-to-market data architecture, Indeed matches 580 million job seeker profiles with over 3 million employers. With Agentforce,
+Indeed aims to have time to hire and help 3 million people overcome employment barriers by 2030.
+IBM, one of our valued strategic partners, selected Data Cloud in the quarter to enhance their global client service with a unified view
+of all client interactions and actionable usage insight they can deliver even more efficient personalized experiences.
+Proprietary unstructured data is a powerful fuel for AI, and we're excited that we were able to close the acquisition of Zoomin to
+accelerate and unlock the unstructured data to power AI agents, making them more personalized and context aware for every customer
+interaction. We also finalized our acquisition of the Own Company. Own's data management capabilities complement our existing
+offerings and will strengthen data security, privacy and compliance across our platform.
+As Marc described, Agentforce is a game changer for our core products, enabling customers to leverage AI-powered insights and
+actions directly in the flow of work across our entire product portfolio. This is evidenced by the strong demand for Sales Cloud and
+Service Cloud, both of which to achieve double-digit growth in Q3. We also just wrapped up another incredible Cyber Week during
+which Commerce Cloud powered close to 50 million orders on digital storefronts with nearly 100% uptime.
+Salesforce powered nearly 60 billion AI-powered product recommendations, a 21% increase year-over-year and over 56 billion
+marketing messages were sent via Marketing Cloud. Service Cloud also helped our customers field and resolve 3.8 billion cases.
+Clearly, the scale, reliability, intelligence of our integrated platform is unmatched. And we continue to see solid momentum with
+Slack with wins at Capital One, Snap, Rivian and Volkswagen Group Technology. Annual spend on Slack AI grew nearly 50%
+quarter-over-quarter and Slack was included in more than 1/3 of our deals greater than $1 million. Since the release of Slack AI, our
+customers have summarized over 600 million messages, saving them a collective 1.1 million hours.
+Tableau and MuleSoft continue to be foundational and fundamental to our customers' transformations. In the quarter, Tableau had
+wins at Allegion, Sirius XM and Hitachi, and MuleSoft headwinds at Northwell Health, 3M and [ cover ] Optima Health. Our industry
+clouds continue to fuel our growth with strong demand in highly regulated industries like health care, notably our new agent-first Life
+Science Cloud was in 3 of our top 10 deals in the quarter. We also saw strong momentum internationally with wins at BrennTag and
+Finnair. Once again, half of our top 10 wins for the quarter were international.
+We continue to unlock customer spend through new channels, including the Agentforce partner network that launched at
+Dreamforce, which allows customers to customize and deploy specialized agents using trusted third-party extensions from Salesforce
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 9
+AppExchange. And AWS Marketplace continues to be a growth driver. Our Q3 transactions doubled quarter-over-quarter with 10
+deals exceeding $1 million.
+Salesforce's business and financial performance has delivered unprecedented results and we're doing it again with our product
+transformation and Agentforce. We're starting Q4 with strong momentum and no 1 is better positioned to capture the massive
+Agentforce opportunity ahead.
+Now over to you, Amy.
+Amy E. Weaver
+President & CFO
+Great. Thanks, Brian. As you heard from Marc and Brian, we are incredibly excited about the opportunity ahead with Agentforce.
+Simply put, Salesforce is uniquely positioned to become the leading enterprise AI platform and the source of a digital workforce for
+companies around the globe. And as customer 0 for Agentforce, we're already seeing a significant pickup in case deflection for our
+customer service organizations. This is just the beginning of a new world of humans and AI agents working together to fundamentally
+reshape the economics of business. As Marc mentioned, we have been on the financial transformation over the past several years, and
+you'll see it in our results.
+Q3 represents another quarter of focused execution leading to strong outcomes. Q3 revenue was $9.44 billion, up 8% year-over-year
+in nominal and constant currency, driven by resilience in our core clouds. Subscription and support revenue grew 9% year-over-year
+in nominal and constant currency, led by another quarter of double-digit growth in both sales and service, driven by strong ARPU
+growth. As expected, this was partially offset by deceleration in our license revenue growth in MuleSoft and Tableau in Q3 on tough
+prior year compares.
+From a geographic perspective, Americas revenue grew 6% in nominal and constant currency, EMEA grew 12% or 9% in constant
+currency, and APAC grew 16% or 14% in constant currency. We saw strong new business growth in LATAM, Canada and Australia,
+while the United States and parts of EMEA remained constrained.
+From an industry perspective, in Q3, health and life sciences, manufacturing and automotive and energy all performed well. Both
+retail and consumer goods were more measured.
+Our multi-cloud momentum continues with our top 25 deals averaging more than 5 clouds each. Now you hear us talk about this
+metric every quarter. It's an incredible proof point that our customers trust Salesforce to transform their entire customer experience
+from sales to service to marketing and commerce to analytics and integration, but our multi-cloud strategy is also core to our financial
+strategy. Multi-cloud customers have higher spend, lower attrition rates and drive significant ARR expansion for us each quarter.
+That's because Salesforce is the only company that can deliver a 360-degree view of your customers, which is essential for every
+company as we move into an agent-first world.
+Data Cloud also continues to be the foundation for every AI transformation, and it was included in 1/3 of all of our deals this quarter
+over $1 million. As you heard from Brian, Data Cloud helps unlock AI within our customers. And that's why 8 of our top 10 deals
+included both Data Cloud and AI, inclusive of Agentforce. This is really the model for all future transactions.
+Q3 revenue attrition ended the quarter slightly above 8%, in line with recent quarters. Q3 non-GAAP operating margin was 33.1%, up
+190 basis points year-over-year, driven by top line outperformance and disciplined expense management.
+And I am very pleased to share that this quarter, our GAAP operating margin hit 20% for the first time in company history. Q3
+non-GAAP EPS was $2.41, inclusive of $0.18 charge driven by mark-to-market adjustments of our strategic investment portfolio.
+Excluding this impact, non-GAAP EPS would have been $2.59, well ahead of our guidance. Q3 operating cash flow was $2 billion, up
+29% year-over-year. Q3 free cash flow was $1.8 billion, up 30% year-over-year.
+Turning to remaining performance obligation. RPO, which represents all future revenue under contract, ended Q3 at $53.1 billion,
+up 10% year-over-year. Current RPO, or cRPO, added at $26.4 billion, an increase of slightly more than 10% year-over-year in
+nominal currency. This includes a $100 million FX tailwind, which results in 10% year-over-year growth in constant currency.
+cRPO outperformance was driven by early renewable favorability and strong new bookings performance. Of note, on the bookings
+performance, over the past couple of quarters, we have seen stabilization in our transactional businesses, most notably, create and
+close and SMB.
+One call out on the Q3 cRPO results. As you heard from Marc, Agentforce momentum in Q3 was incredible, with over 200 deals
+closed in only 1 week. However, given we are early in our adoption cycle, it is not yet a material contributor to cRPO.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 10
+On capital return, in Q3, we executed $1.2 billion in share repurchases and paid nearly $400 million in dividends. This brings our
+total return to shareholders in the quarter to $1.6 billion. Through our capital return program, we continue to expect to more than fully
+offset dilution from our FY '25 stock-based compensation. And I'm pleased to share that since its inception of our capital allocation
+program, total capital returns have now surpassed $20 billion.
+Now let's turn to guidance. Note that, after the end of our third quarter, we closed our acquisitions of the Own Company and Zoomin.
+As such, our guidance incorporates contributions from both these deals.
+Let's start with the full fiscal year '25. On revenue, we are raising the low end of our guidance range to $37.8 billion and maintaining
+the high end at $38 billion, growth of approximately 8% to 9% year-over-year, reflecting the strong execution and revenue
+outperformance over the last 2 quarters. For subscription and support revenue, we still expect approximately 10% growth year-overyear in constant currency.
+A few reminders on our revenue guide. On FX, our revenue guidance continues to incorporate a $100 million FX headwinds yearover-year or a 30 basis point impact. We continue to expect our professional services business to be a headwind to revenue growth.
+And as we shared last quarter, our guidance incorporates deceleration in our license revenue growth in the back half of this year. On
+attrition, we expect attrition to remain consistent at slightly above 8% for the full year.
+Now turning to profitability and cash flow. On margins, we are pleased to raise our fiscal year '25 non-GAAP operating margin
+guidance to 32.9%, representing a 240 basis point improvement year-over-year. This incorporates intentional investments in growth
+opportunities, most notably in Agentforce and Data Cloud.
+As we said last quarter, stock-based compensation is still expected to be approximately 8.4% as a percent of revenue. For fiscal year
+'25, GAAP operating margin guidance continues to be slightly below 20%, representing 540 basis points of improvement year-overyear. We expect fiscal year '25 GAAP diluted EPS of $6.15 to $6.20. Non-GAAP diluted EPS is expected to be $9.98 to $10.03.
+We are raising our fiscal year '25 operating cash flow growth to approximately 24% to 26%, inclusive of cash tax headwinds, and
+we continue to expect CapEx for the fiscal year to be slightly below 2% of revenue. This now results in free cash flow growth of
+approximately 26% to 28% for the fiscal year.
+Now the guidance for Q4. On revenue, we expect $9.9 billion to $10.1 billion, up 7% to 9% year-over-year in nominal and constant
+currency. cRPO growth for Q4 is expected to be approximately 9% year-over-year in nominal, including $100 million FX headwind
+and slightly above 9% in constant currency. Similar to Q3, we do not expect a material contribution to cRPO from Q4 Agentforce
+related bookings. For Q4, we expect GAAP EPS of $1.55 to $1.60, and non-GAAP EPS of $2.57 to $2.62.
+In closing, I am very pleased with our strong execution this quarter, and we remain focused on driving profitable growth, optimizing
+free cash flow and delivering a new era of customer success with Agentforce, which truly represents the next evolution of Salesforce.
+Now Mike, let's open up the call for questions.
+Michael Spencer
+Executive Vice President of Investor Relations
+Thanks, Amy. As a courtesy to everyone on the call, we ask that everyone only ask one question, please. With that Regina, let's go to
+the first question, please.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 11
+Question and Answer
+Operator
+Our first question comes from the line of Brent Thill with Jefferies.
+Brent John Thill
+Jefferies LLC, Research Division
+Marc, on Agentforce, I'm curious if you could just talk about the halo effect you're starting to see across the product lines, perhaps
+some of the other products getting pulled in. You mentioned Data Cloud, can you speak to what you're seeing from that?
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+Brent, thanks. It's a great question. And Amy really hit a very subtle line in the middle of her script, and it probably requires a little
+more illumination, which is Amy really said to you that in our top 25 deals, we saw this kind of collaboration with these 5 clouds each.
+And what that means to us is that our top customers are really loading in this complete agent-first cocktail. And this idea that we have
+sales, we have service, we have marketing, we have analytics, we have our Data Cloud, we have Slack. And every customer wants
+these products and wants them together. We have an incredible sales cloud, #1 in the world, you know that. And it is the only agentfirst Sales Cloud today is highly differentiated. We have the #1 service cloud in the world. The Gartner just published the new Magic
+Quadrant. We're #1, way up and to the right. And we guess what we are now part of their up and to the right because we're the only
+agent-first service cloud, marketing cloud, analytics, data, Slack across the board.
+And I'll tell you a story, which is we have an incredible customer in the health care industry and the recently called me in there. They
+were thinking about how are they going to deploy these agents and on and on and on, and it's a huge opportunity for health care, and I
+can talk to you exhaustively all about that. But we gave them a whole pitch, went through the whole thing. And then the next day, they
+called us back and they said, we really want to talk to you now about our Marketing Cloud Choice. And we're looking at Adobe and
+how should we think about that? And I'm like, wow, we really probably should bring in our team and show you what we're doing, but
+it's really -- you have to look at the whole platform that we can do because, yes, we have an incredible marketing cloud and incredible
+e-mail capabilities and promotion capabilities and on and on and deeply integrated into our workflow, but take a look how it operates
+across all of your customer channels and all of your customer touch points and how this is 1 comprehensive customer suite and it's all
+agent-first. And then he sent me a text, and that's a very large customer, and said, of course, we are going with you on the marketing
+as well. Because I think when customers realize that they are going to build agent-first companies that the agent needs to have a
+comprehensive access to this entire data set and metadata set that we are the only ones who have built this platform. Nobody else has
+a comprehensive platform that does sales, service, marketing, analytics, data cloud, Slack, all integrated together as 1 piece of code
+and operating across all languages, all currencies and can scale from the smallest companies to the very largest in the world. And that
+is what is unique about Salesforce. And we have something very special right now because -- and you know, Brent, because you've
+been covering this for a long time, we always have the best enterprise AI and our Einstein is the best. We've been working on that for
+more than a decade. So of course, we were able to put it into overdrive and deliver agents first. But because it's within the platform,
+everything is in the platform. This isn't some distinct discrete piece of code, it's just another light switch on for the customer to get the
+full level of functionality.
+So I couldn't be more excited about it. I'm sure it's coming through on the call. I really think that for all of us, you think about, Brent,
+how long we've been working together for decades before I started Salesforce. And you think about the conversation we just had on
+this earnings call, is unlike any conversation you and I have ever had about software. We are all about to learn and grow and expand
+and evolve and become a different kind of industry that's providing a different kind of value and this is the most excited I've ever been
+about the software industry.
+Operator
+Your next question comes from the line of Keith Weiss with Morgan Stanley.
+Keith Weiss
+Morgan Stanley, Research Division
+I definitely hear the excitement coming through on the call. Maybe a question for Brian. When it comes to those 200 deals that you've
+already signed for Agentforce, maybe you could give us some color on what those deals look like? Do they tend to be upsells? What
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 12
+type of uplift do you see if you're upselling to customers? Do they tend towards like 1 cloud or another? How expansive are there?
+Any kind of color that we can used to try to kind of understand this opportunity better?
+Brian Millham
+President & COO
+Keith, thank you for the question and a good one. We are seeing incredible traction with our customers as add-ons to many of our
+Service Cloud offerings. Obviously, Service Cloud is our largest cloud, and our initial Agentforce opportunity is with our Service
+Cloud customers right now, and we saw a ton of add-ons happening in our customer base with Service Cloud. But what our customers
+also recognize is that this is a platform and the opportunity to move from, yes, of course, we want to have autonomous agents that
+are supporting customers like we have on help.salesforce.com, but what are all the opportunities you have in your interactions and
+the flow of work with your customers where you can deploy agents. And so while we have tremendous excitement and the initial 200
+deals were largely in the Service Cloud space, we feel great about the opportunity with Sales Cloud and with Marketing Cloud and
+with Commerce Cloud and of course, with Data Cloud, which is included in all of our Agentforce deals. And so those 200 deals sort
+of tip of the iceberg when we think about the opportunity that's ahead of us for Agentforce.
+Operator
+Your next question comes from the line of Raimo Lenschow with Barclays.
+Raimo Lenschow
+Barclays Bank PLC, Research Division
+Perfect. You're obviously creating a lot of value for your clients. Like how is the discussion about how you kind of participate or work
+with the clients about pricing for Agentforce going? Or like how should we think about it? What are you hearing there?
+Brian Millham
+President & COO
+Raimo, thanks for the question. I'll start, and I think Marc is probably going to chime in as well. But we're super excited about.
+And I would say, as you all know, it's a usage-based structure. And at $2 a conversation, we feel like the value is very high for our
+customers, given what they're spending today in a lot of their conversations...
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+Everybody knows I've been wearing a boot because I ruptured my Achilles while I was on a scuba-diving trip to Fakarava, which
+is an incredible place in the Tuamotu in French Polynesia for my birthday, had I was having a great time, ruptured my Achilles,
+unfortunately. And I'm sure we all know the international motto of Fakarava, which I have close to my heart, which is, "I don't give
+a Fakarava." So I think that I just got a call from my hospital telling me that I'm coming in to get scheduled for another MRI and
+incredible service. Everybody knows I have this great relationship with UCSF, and they pay a lot of attention to me, I pay a lot of
+attention to them, incredible organization, and they had a lot of questions for me about getting me ready for my next MRI.
+And at the end of the call and this kind of preoperative care and then another call postoperative and so forth. And I was just saying to
+myself, "Wow, what did that cost them?" And they just don't have enough people as it is. Their doctors are already burned out. Their
+nurses are burnt out. I talked to the folks all the time. There's a lot of pajama time for all these doctors is what they call it because
+they're all working late at night with their families, trying to get through all of their messages. Everybody is maxed out at UCSF. I
+mean it's an incredible org, but I can't believe the amount that they have to do with such actually limited workforce.
+And then when I got this call, I said, you know, they kind of know all of this already about me. They've got all of my data. They have
+all of my care. They have my family history. They've got all my scans, they can have an agent do this work, and that call probably
+cost them $100. And it didn't have to happen. And I think that we could have done the call were probably about $1.50. And I think
+that, that is the message to our customers, which is -- how are you going to give so many people a break, let them get back to their
+strategic work, let them focus on what really matters to their customers. And some of the work that's a little bit more administrative
+and bureaucratic and political that's done by these political layers or higher levels, that's like, you know what, I think that, that could
+have happened with an agent. And that's kind of how I look at it. And I think we're just at an incredible moment where we can really
+grow our country's revenue or GDP, do a lot more, have a lot more productivity without hiring a lot more people. And the hospital
+example is the best example.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 13
+And consumption pricing isn't new to Salesforce. You all know that we have our Sandboxes and our Commerce Scout and Heroku
+and Data Cloud and many, many, but this is a consumption product. We have per user products, which are for humans. We have
+consumption products for agents and robots. And that's how I think we should look at it, which is the comparative costs is there's just
+no comparison.
+And do you want to add more to that, Brian?
+Brian Millham
+President & COO
+I'd just say our customers really understand the cost of their labor right now. And when we can deploy agents to help them manage
+their interactions with their customers, the pricing conversations are significantly easier. And so you can even see it on our website.
+We've got calculators that allow our customers to go do the work themselves, and it's been a great add for them to go understand what
+the cost structures look like, and it's been an enlightenment for many of our customers to see the value that we can deliver for them
+with Agentforce.
+Operator
+Our next question comes from the line of Brad Zelnick with Deutsche Bank.
+Brad Alan Zelnick
+Deutsche Bank AG, Research Division
+Marc, I wanted to ask about the more Core initiative that you mentioned in your remarks. It would seem further integrating the
+platform can only be a good thing for customers. Can you talk more about what's involved and the size of the price as you come out
+the other side of this initiative?
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+Well, we have been working on this now for a couple of years, really since we started our transformation, which I think maybe this
+call is the 2-year anniversary of our transformation. Is that right, Amy? I mean it was about 2 years ago that we were like, woah,
+we're about to go through an incredible transformation. And I think we would not have gotten through that transformation without the
+support of all of you. And I think you know that you gave us a lot of the advice and thinking and strategy to do that, and it's been an
+incredible 24 months. It's been a financial transformation and it's been a technology transformation.
+And now when we really think about what are the things that we really invested in, we really tried to look at how do we try to make
+our organization stronger to be able to deliver the numbers that we want to be able to do and we want to expand our distribution
+organization. That's something that we wish we had done faster. We're still not where we want to be there. I would say where
+we've made very significant investments were in AI, and I think that's evidenced by Agentforce, and we also made very significant
+investments in more Core. We've dramatically increased not only the productivity but also the number of engineers in the company
+over the last 2 years as well. That's been an incredible focus for us. That's why we're able to deliver this technology capability.
+And when we look at the company, I would say more Core has come out of it. So at Dreamforce, you saw how commerce and
+marketing, for example, which always had been outside of the core platform are now inside the core platform. And the idea that we
+want sales, service, marketing, analytics, data cloud, Slack, all to be in 1 platform. And that is because we want all of the workflow,
+the data, the metadata, all to be in one platform. And the reason why is because the AI does not work if you don't have that. The AI
+needs this ability to look across these huge data sets and capabilities to kind of pull it all together because you can imagine that I'm
+on the phone with UCSF, and I'm talking now to the agent at some point in the future instead of talking to the person who I spoke to
+today and they say, you still owe $500 on that last visit, which is not uncommon for me. There's some additional fee or something that
+I have to pay. And I'll say, yes, go ahead and process that. And that's all just happens on our platform.
+So the commerce can happen on the platform, the confirming the e-mail can happen on the platform, the case management can
+happen on the platform, the patient relationship management can happen on the platform, and it can happen by industry, it can happen
+by geography, it can be happen by currency. And that is what's really, I think, unique about Salesforce and it's not just that we're
+delivering this agent-first solution, it's the comprehensive functionality set underneath there that's all possible.
+Operator
+Our next question comes from the line of Brent Bracelin with Piper Sandler.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 14
+Brent Alan Bracelin
+Piper Sandler & Co., Research Division
+I wanted to ask about the new foundations offering. This seems like a new strategic approach to multi-cloud packaging that could
+also drive broader agent adoption. What's been customer response to foundation so far? And do you have any sense on what adoption
+might look like in the coming year?
+Marc R. Benioff
+Co-Founder, Chairman & CEO
+I think that foundation -- and when you look at other initiatives that we have, and this is all coming out of more Core. So when you
+look at Essentials, when you look at our focus on the SMB market, when you look at kind of you're seeing the fundamental rewriting
+of the product in real time. It is a little bit like we are flying the airplane and rebuilding it in real time. I would joke with my team
+2 years ago what happened was we were flying the airplane, we found out the 2 pilots were gone in the front and 1 person at the
+parachute jumped out of plane. And we were all left on the plane, and we were on the phone with all of you going, well, we're going
+to put it all together and just trust us, we're going to get this done. And while we've been doing that, not only do we land the plane
+successfully, but we rebuilt the whole airplane in real time. And that idea that the platform itself has been rebuilt. And it's pretty
+incredible. Foundations is really a glimpse at what's happening. It's the same code set, but you can see how Foundations is kind of a
+whole different way to use Salesforce, and we're making as much of our functionality available to all of our customers as possible. So
+we're shipping foundations so that every customer can get a taste of sales and service and marketing and analytics and Data Cloud and
+Slack.
+And everything that we have because we realize -- and I'll include 1 thing I didn't mention is platform. So it's very important that these
+customers see that they don't have to go buy another best-of-breed product, they can just flip the switch and everything comes on.
+And that is working, and we still have a lot of work to do to educate our customers on all the capabilities that we have. Still a lot of
+our Sales Cloud customers don't have Service Cloud and a lot of our Service Cloud customers don't have Sales Cloud, and that's true
+of Marketing Cloud, I could go to each 1 of these clouds because in some ways, we've been selling a lot of these clouds in their own
+silos, so they've built on their own customer bases. And we have a lot of customers, and we have a lot of software to sell to a lot of
+people, but it's an exciting moment because we're so highly differentiated.
+Operator
+Our final question comes from the line of Kirk Materne with Evercore ISI.
+Kirk Materne
+Evercore ISI Institutional Equities, Research Division
+Congrats on the quarter and great to hear all the excitement around Agentforce off the launch. Brian, this is probably for you. I was
+just curious and dovetails back into some earlier comments. Really strong attach with Data Cloud thus far. I was just kind of curious
+how far along are your customers in terms of having their data in order so that they can get value from Agentforce somewhat out
+of the box? I'm just trying to get a better understanding on how long does it take from the conversation with customers and sort of
+scouting out what they're going to do, getting their data in order and then bringing sort of Agentforce to bear, is it a 3-, 6-month
+process, just trying to get a sense if you have an idea on that quite yet.
+Brian Millham
+President & COO
+Yes, it's a great question, Kirk. And I appreciate it. It varies by customer, honestly. If you've had a very strong data architecture
+strategy for many years, your ability to turn on Data Cloud, harmonize your data and leverage it in our AI solutions is months, weeks
+even. There are other customers who have data siloed across their business, they built data lakes. It sits across different divisions that
+they want to bring together in Data Cloud, and that can take a bit longer, 6 months even to bring that data together. They all want
+to move faster, which is the great opportunity for us. They all recognize the need for harmonized data to make their AI and their
+Agentforce opportunity better with their customers. And so what we're seeing is tremendous demand for not only the technology but
+the people to go harmonize the data, get it in a state that they can now leverage Agentforce to really deliver for their customers. So it
+really depends, honestly, is the answer.
+Michael Spencer
+Executive Vice President of Investor Relations
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 15
+Thanks, Kirk, and thanks, everyone, for joining the call today. We look forward to seeing everyone over the coming weeks and wish
+everyone a happy holiday season.
+Operator
+That will conclude today's call. Thank you all for joining. You may now disconnect.
+SALESFORCE, INC. FQ3 2025 EARNINGS CALL DEC 03, 2024
+Copyright © 2024 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 16
+Copyright © 2024 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+These materials have been prepared solely for information purposes based upon information generally available to the public and from sources believed to be reliable.
+No content (including index data, ratings, credit-related analyses and data, research, model, software or other application or output therefrom) or any part thereof
+(Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior
+written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized
+purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of
+the Content. S&P Global Parties are not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the Content. THE
+CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS,
+SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE
+WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits
+and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages. S&P Global
+Market Intelligence's opinions, quotes and credit-related and other analyses are statements of opinion as of the date they are expressed and not statements of fact or
+recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an index is available through investable
+instruments based on that index. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content
+should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. S&P
+Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to
+maintain the confidentiality of certain nonpublic information received in connection with each analytical process.
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves
+the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free
+of charge), and www.ratingsdirect.com and www.globalcreditportal.com (subscription), and may be distributed through other means, including via S&P Global
+publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2024 S&P Global Market Intelligence.

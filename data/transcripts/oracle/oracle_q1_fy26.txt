@@ -1,0 +1,476 @@
+Operator
+0:00:00
+
+Hello, and thank you for standing by. My name is Tiffany, and I will be your conference operator today. At this time, I would like to welcome everyone to the Oracle Corporation Q1 FY 2026 Conference Call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you would like to ask a question during that time, simply press star, then the number one on your telephone keypad. I would now like to turn the call over to Ken Bond, Head of Investor Relations. Ken, please go ahead.
+
+Ken Bond
+Head of Investor Relations
+0:00:40
+
+Thank you, Tiffany. Good afternoon, everyone, and welcome to Oracle's First Quarter Fiscal Year 2026 Earnings Conference Call. A copy of the press release and financial tables, which include a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from the Investor Relations website. On the call today are Chairman and Chief Technology Officer Larry Ellison and Chief Executive Officer Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements.
+
+Ken Bond
+Head of Investor Relations
+0:01:32
+
+These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today. As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our Form 10-K and Form 10-Q, and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. Finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. With that, I'd like to turn the call over to Safra.
+
+Safra Catz
+CEO
+0:02:11
+
+Thanks, Ken, and good afternoon, everyone. Clearly, we had an amazing start to the year because Oracle has become the go-to place for AI workloads. We have signed significant cloud contracts with the who's who of AI, including OpenAI, xAI, Meta, NVIDIA, AMD, and many others. At the end of Q1, remaining performance obligations, or RPOs, now top $455 billion. This is up 359% from last year and up $317 billion from the end of Q4. Our cloud RPO grew nearly 500% on top of 83% growth last year. Now to the results using constant currency growth rate. As you can see, we've made some changes to the face of our income statement to better reflect how we manage the business and so you can understand our cloud business dynamics more directly. Total cloud revenue, that's both apps and infrastructure, was up 27% to $7.2 billion.
+
+Safra Catz
+CEO
+0:03:46
+
+Cloud Infrastructure revenue was $3.3 billion, up 54% on top of the 46% growth reported in Q1 last year. OCI consumption revenue was up 57%, and demand continues to dramatically outstrip supply. Cloud database services, which were up 32%, now have annualized revenues of nearly $2.8 billion. Autonomous Database revenue was up 43% on top of the 26% growth reported in Q1 last year. Mullticloud d atabase revenue, where OCI regions are embedded in AWS, Azure, and GCP, grew 1,529% in Q1. Cloud application revenue was $3.8 billion and up 10%, while our strategic back-office application revenue was $2.4 billion, up 16%. Total software revenue for the quarter was $5.7 billion, down 2%. All in, total revenues for the quarter were $14.9 billion, up 11% from last year and higher than the 8% growth reported in Q1 last year. Operating income grew 7% to $6.2 billion.
+
+Safra Catz
+CEO
+0:05:34
+
+We have also been on an accelerated journey to adopt AI internally to run more efficiently. I expect our operating income will grow mid-teens this year and higher still in FY 2027. Non-GAAP EPS was $1.47 in U.S. dollars, while GAAP EPS was $1.01 in U.S. dollars. The non-GAAP tax rate for the quarter was 20.5%, which was higher than the 19% guidance and caused EPS to be $0.03 lower. For the last four quarters, operating cash flow was up 13% to $21.5 billion, and free cash flow was a $5.9- billion, with $27.4 billion of CapEx. Operating cash flow for Q1 was $8.1 billion, while free cash flow was a $362- million, with CapEx of $8.5 billion. At quarter end, we had $11 billion in cash and marketable securities, and short-term deferred revenue balance was $12 billion, up 5%.
+
+
+Safra Catz
+CEO
+0:07:10
+
+Over the last 10 years, we've reduced the shares outstanding by a 1/3 at an average price of $55, which is, at this point, much less than a quarter of our current stock price. This quarter, we repurchased 440,000 shares for a total of $95 million. In addition, we paid out dividends of $5 billion over the last 12 months, and the Board of Directors again declared a quarterly dividend of $0.50 per share. Given our RPO growth, I now expect fiscal year 2026 CapEx will be around $35 billion. As a reminder, the vast majority of our CapEx investments are for revenue-generating equipment that is going into the data centers and not for land or buildings. As we bring more capacity online, we will convert the large RPO backlog into accelerating revenue and profit growth.
+
+Safra Catz
+CEO
+0:08:23
+
+Now, before I dive into specific Q2 guidance, I'd like to share some of the overarching thoughts on fiscal year 2026 and the coming years. Clearly, it was an excellent quarter, and demand for Oracle Cloud Infrastructure continues to build. I expect we will sign additional multi-billion dollar customers and that RPO will likely grow to exceed $500 billion . The enormity of this RPO growth enables us to make a large upward revision to the cloud infrastructure portion of our financial plan. We now expect Oracle Cloud Infrastructure will grow 77% to $18 billion this fiscal year and then increase to $32 billion, $73 billion, $114 billion, and $144 billion over the following four years. Much of this revenue is already booked in our $455 billion RPO number, and we are off to a fantastic start this year.
+
+Safra Catz
+CEO
+0:09:43
+
+While much attention is focused on our GPU-related business, our non-GPU infrastructure business continues to grow much faster than our competitors. We're also seeing our industry-specific cloud applications drive customers to our back-office cloud apps. Finally, the Oracle Database is booming with 34 multi-cloud data centers now live inside of Azure, GCP, and AWS, and we will deliver another 37 data centers for a total of 71. All these trends point to revenue growth going higher. For fiscal year 2026, we remain confident and committed to full-year total revenue growth of 16% in constant currency. Beyond fiscal year 2026, I'm even more confident in our ability to further accelerate our top and bottom line growth rate. As mentioned, we will provide an update on our long-range financial targets at our financial analyst meeting at Oracle AI World in Las Vegas in October.
+
+Safra Catz
+CEO
+0:11:01
+
+Now, let me turn to my guidance for Q2, which I'll review on a non-GAAP basis, and assuming currency exchange rates remain the same as they are now. Currency should have a $0.03+ impact on EPS and a 1%+ effect on revenue, depending on rounding. However, the actual currency impact may be different as it was in Q1. Here goes. Total revenue are expected to grow from 12% -1 4% in constant currency and are expected to grow from 14% - 16% in U.S. dollars at today's exchange rate. Total cloud revenue is expected to grow from 32% - 36% in constant currency and is expected to grow from 33% - 37% in USD. Non-GAAP EPS is expected to grow between 8% - 10% and be between $1.58 - $1.62 in constant currency.
+
+Safra Catz
+CEO
+0:12:12
+
+Non-GAAP EPS is expected to grow 10% - 12% and be between $1.61 - $1.65 in USD. Lastly, my EPS guidance for Q2 assumes a base tax rate of 19%. However, one-time tax events could cause actual tax rates to vary as they did this quarter. Larry, over to you.
+
+Larry Ellison
+Chairman and CTO
+0:12:41
+
+Thank you, Safra. Eventually, AI will change everything. Right now, AI is fundamentally transforming Oracle and the rest of the computer industry, though not everyone fully grasps the extent of the tsunami that is approaching. Look at our quarterly numbers. Some things are undeniably evident. Several world-class AI companies have chosen Oracle to build large-scale GPU-centric data centers to train their AI models. That's because Oracle builds GW-scale data centers that are faster and more cost-efficient at training AI models than anyone else in the world. Training AI models is a gigantic multi-trillion dollar market. It's hard to conceive of a technology market as large as that one. If you look close, you can find one that's even larger. It's the market for AI inferencing. Millions of customers using those AI models to run businesses and governments.
+
+
+Larry Ellison
+Chairman and CTO
+0:14:02
+
+In fact, the AI inferencing market will be much, much larger than the AI training market. AI inferencing will be used to run robotic factories, robotic cars, robotic greenhouses, biomolecular simulations for drug design, interpreting medical diagnostic images and laboratory results, automating laboratories, placing bets in financial markets, automating legal processes, automating financial processes, automating sales processes. AI is going to write, that is, generate, the computer programs called AI agents that will automate your sales and marketing processes. Let me repeat that. AI is going to automatically write the computer programs that will then automate your sales processes and your legal processes and everything else, and your factories, and so on. Think about it. AI inferencing. It's AI inferencing that will change everything. Oracle is aggressively pursuing the AI, and we're not doing badly in the AI training market, by the way. Inferencing is bigger.
+
+Larry Ellison
+Chairman and CTO
+0:15:26
+
+Oracle is aggressively pursuing the inferencing market, as well as the AI training market. We think we are in a pretty good position to be a winner in the inferencing market because Oracle is by far the world's largest custodian of high-value private enterprise data. With the introduction of our new AI database, we added a very important new way for you to store your data in our database. You can vectorize it. By vectorizing it, by vectorizing all your data, all your data can be understood by AI models. We made it very easy for our customers to directly connect all their databases, all their new Oracle AI Databases, and cloud storage, OCI cloud storage, to the world's most advanced AI reasoning models: ChatGPT, Gemini, Grok, Llama, all of which are uniquely available in the Oracle Cloud.
+
+Larry Ellison
+Chairman and CTO
+0:16:39
+
+After you vectorize your data and link it to an LLM, the LLM of your choice, you can then ask any question you can think of. For example, how will the latest tariffs impact next quarter's revenue and profit? You ask that question, the large language model will then apply advanced reasoning to the combination of your private enterprise data plus publicly available data. You get answers to important questions without ever compromising the safety and security of your private data. I would like you to think about this for a moment. A lot of companies are saying, we're big into AI because we're writing agents. Guess what? We're writing a bunch of agents too. When they introduced ChatGPT almost three years ago, what you got to do is have a conversation and ask questions. You were not automating some process with an agent.
+
+Larry Ellison
+Chairman and CTO
+0:17:38
+
+You could ask whatever question you wanted to ask and get a well-reasoned answer with all of the latest and best information and high-quality reasoning to go along with it. Who is offering that to customers? We will be the first when we deliver it and demonstrate it at AI World next month. That is what our customers have been asking for ever since the introduction of ChatGPT 3.5 almost three years ago. I wanted to ask questions about anything. Therefore, you need to understand my enterprise data as well as all the publicly available data. You can answer the questions that are most important to me. Now they can ask those questions. Back to you, Safra.
+
+Ken Bond
+Head of Investor Relations
+0:18:32
+
+Thank you, Larry. Tiffany, please poll the audience for questions.
+
+Operator
+0:18:37
+
+At this time, if you would like to ask a question, press star, then the number one on your telephone keypad. To withdraw your question, simply press star one again. We will pause for just a moment to compile the Q&A roster. Your first question comes from the line of John DiFucci with Guggenheim Securities. Please go ahead.
+
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:19:01
+
+Thank you for taking my question. Listen, even I am sort of blown away by what this looks like going forward. This question, I guess, is sort of purposely open-ended. Larry and Safra, Oracle's become the de facto standard for AI training workloads, and you make money at it. I have a lot of faith in that. Clearly, there's more here than just AI training. I know it's a big part of it. You talked about it. Can you talk about what else, a little more detail about what else is driving these pretty amazing forecasts?
+
+Safra Catz
+CEO
+0:19:39
+
+Go ahead, Larry. I think that you were just covering this.
+
+Larry Ellison
+Chairman and CTO
+0:19:45
+
+A lot of people are looking for inferencing capacity. People are running out of inferencing capacity. The company that called us, I mentioned it, I think either last quarter or the quarter before, someone called us, we'll take all the capacity you have that's currently not being used anywhere in the world. We don't care. I'd never gotten a call like that. That's a very unusual call. That was for inferencing, not training. There's a huge amount of demand for inferencing. If you think about it, in the end, all this money we're spending on training is going to have to be translated into products that are sold, which is all inferencing. The inferencing market, again, is much larger than the training market. Yes, we are building, like everybody else, we're building agents with our applications. We're doing much more than that. No one's shown me a ChatGPT 3.5 again.
+
+Larry Ellison
+Chairman and CTO
+0:20:43
+
+Three years ago, three and a half, three years ago, a little less than three years ago, when ChatGPT amazed the world, you could simply talk to your computer and ask questions and get well-reasoned questions based on the latest and most precise information, as long as you ask those questions about publicly available data. There's a lot of publicly available data. If you combine the publicly available data with the enterprise data, which companies really don't want to share, you have to do it in such a way that your private enterprise data stays private, yet the large language model can still use it for reasoning. As to answer your question, like how do the latest tariffs or the latest steel prices or whatever affect my quarterly results, affect my ability to deliver products, affect my revenue, affect my costs, answer those kinds of questions.
+
+Larry Ellison
+Chairman and CTO
+0:21:45
+
+To answer those kinds of questions, we have to, and we have, we had to change our database, fundamentally change our database, so you can vectorize all data. That's the form in which large language models understand information exactly after it's been vectorized. Then allowing people to ask any question they want about anything. That's exactly what we've done. Unless you have a database that is secure and reliable and linked to all of the popular LLMs, and we've done all of that, unless you have that, you have to tell me who else has that besides Oracle. Unless you have that, this can be very hard for you to deliver a ChatGPT-like experience on top of your data as well as publicly available data. That is a unique value proposition for Oracle.
+
+Larry Ellison
+Chairman and CTO
+0:22:42
+
+That is because, again, we're the custodian of all of much more data than any of the application companies. They have their application data. They measure their customers in tens of thousands. We measure our customers in millions of databases. We think we're better positioned than anybody to take advantage of inferencing.
+
+
+Safra Catz
+CEO
+0:23:12
+
+In addition, by the way, aside from just our GPU and all of that, we have become the de facto cloud for many of our customers. Again, they want to put some things in our public cloud or in our competitors' public cloud working with the Oracle Database. Simultaneously, there are a lot of reasons why they want what's called either a dedicated region or Cloud@Customer. We give our customers so much choice that it's very unusual for us not to be able to meet a customer's needs in one way or another. Of course, we have every piece of the stack. We have the infrastructure. We have the database that you're going to hear a lot about as really the only reasonable store for data that you want to use AI models against. We have all of these applications that are just taking off.
+
+Safra Catz
+CEO
+0:24:16
+
+We just have a lot of different layers. They're all moving in the same direction, and they all benefit our customers when used together.
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:24:26
+
+Listen, my apologies.
+
+Larry Ellison
+Chairman and CTO
+0:24:27
+
+L et me just—
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:24:29
+
+Go ahead.
+
+Larry Ellison
+Chairman and CTO
+0:24:29
+
+Go ahead, John.
+
+
+Larry Ellison
+Chairman and CTO
+0:24:31
+
+John, you were going to compliment us, and I interrupted you. I apologize for being rude.
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:24:35
+
+I was just going to say my hat's off to both of you. I have been doing this a really long time, and I tell my whole team, pay attention to this, even those that are not working on Oracle, because this is a career event happening right now. It looks, it's just amazing. I guess I'm just really happy for you. Congrats on this. It's amazing.
+
+Larry Ellison
+Chairman and CTO
+0:25:01
+
+Thanks.
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:25:01
+
+A lot of work. Keep doing it.
+
+Larry Ellison
+Chairman and CTO
+0:25:05
+
+It's been a lot of work. Let me mention two other things I think that are actually shocking. We have gotten the entire Oracle Cloud, the whole thing, every feature, every function of the Oracle Cloud, down to something we can put into a handful of racks, three racks. We call it Butterfly. That costs $6 million. We can give you a private version of the Oracle Cloud with every feature, every security feature, every function, everything we do for $6 million. I think the cost for the other hyperscalers is more than 100x that. We can actually give our customers, clouded customers, the full clouded customer. We have companies like Vodafone, and I'm not sure which companies I can name or which companies I can't.
+
+Larry Ellison
+Chairman and CTO
+0:26:04
+
+We have large companies that are buying basically their own Oracle Cloud regions, in fact, multiple Oracle Cloud regions, because they don't want to have any neighbors in their cloud. They don't want other companies in their cloud. They want the full cloud. They want to pay as they consume. They want all the features, all the function, all the safety, the security. They don't want to have to buy it. They want us to buy and own the software and the hardware. They want us to maintain it, build the networks, supply all of that, and they just want a pay-per-consumption. We can do that at an entry-level price that's 1% of what our competitors can offer. That's one thing. Let me give you one more, and I'll stop there. We also have the most advanced application generator of any company. It's interesting.
+
+
+Larry Ellison
+Chairman and CTO
+0:26:51
+
+We're an application company and a cloud infrastructure company. Therefore, we build applications. As we build applications, we'd like to be more efficient. The way to be more efficient is to build AI application generators. We have been doing that. The latest applications that we are building, we're not building them. They're being generated by AI. We think we're far, far ahead of any of the other application companies in terms of generating the applications. That's another very significant advantage we have. Of course, it's funny, you know, I made the comment, we don't charge separately for our AI and our applications because our applications are AI. They're entirely AI. The new ones, the new ones that we're building, they're nothing other than a bunch of AI agents that we generate that are linked together with workflow. That's all they are. How do you charge separately for that?
+
+Larry Ellison
+Chairman and CTO
+0:27:51
+
+That's every application that we have. The applications are better, and hopefully, we'll sell more, and that's the way we'll get paid for them. I got it. Thank you, John, for the very nice compliment.
+
+John DiFucci
+Senior Managing Director and Senior Research Analyst
+0:28:02
+
+Thank you, Larry. Thank you, Safra.
+
+Safra Catz
+CEO
+0:28:05
+
+Thank you, John, for all these years following us so kindly. Also, thanks. Great day. Probably time for another question at this point.
+
+Operator
+0:28:20
+
+Your next question comes from the line of Brad Zelnick with Deutsche Bank . Please go ahead.
+
+Brad Zelnick
+Managing Director and Software Equity Research Analyst
+0:28:27
+
+Great. Thanks very much. I think we're all kind of in shock in a very, very good way. Larry, there's no better evidence of a seismic shift happening in computing than these results that you just put up. Oracle has a near 50-year track record of navigating transitions and coming out on top. As we think about enterprise applications, investors are fairly pessimistic these days. I'd love to hear your perspective. Where do you see this all going for the industry? Where does the market share go to the companies that don't have the database, that don't have the advantages that you have all the way down to the silicons? This may be an extinction event. I'd be curious to hear what you think.
+
+
+Larry Ellison
+Chairman and CTO
+0:29:08
+
+I think we have substantial advantages because we are an infrastructure company and we are an application company. There are two things that happened. As an application company, we knew we had to start generating our applications. We just couldn't do it with armies of people anymore. We still need people, don't get me wrong, but the number of people we need is substantially less. We can build/generate much better applications than we can hand-build. We've been working on these AI application generators for some time, and we're actually using them. The thing is, we're not just building application generators. We're building application generators, and then we're building the applications, which gives us insights to make the application generator better.
+
+Larry Ellison
+Chairman and CTO
+0:29:54
+
+It's a huge advantage to be on both sides of that equation, both being an application builder and a builder of the application generation technology, the underlying AI application code generators. That's a huge advantage. Let me give you another advantage, which is often a disadvantage. We're very large. We no longer sell individual discrete applications. We sell suites of applications. We decided to go into the medical business against Epic, believing that we could solve much more of the problem because we're much bigger than they are. By the way, we're much bigger than Workday or ServiceNow, and we're solving a larger portion of the problem. We're able to do all of ERP, then we can add all of CRM, but all the pieces are engineered to fit together. That makes it so much easier for customers to consume.
+
+Larry Ellison
+Chairman and CTO
+0:31:01
+
+We think that being good at application generation, the underlying technology, makes us better at building better applications, enables us to build more applications so we can solve more of the problem. The customers don't have to do all that system integration across multiple vendors. We can just build a suite where all the pieces are engineered to fit together. I think we have tremendous advantages in the application space. We have tremendous advantages in the AI inferencing space where we can, again, what we'll demonstrate at Oracle AI World next month is we've taken all of our customer data, all of it. I don't want to go into all the details now, but you can ask any question you want to ask. Who's your salesperson? Who's the number one prospect in my territory? What product should I be selling them next?
+
+Larry Ellison
+Chairman and CTO
+0:32:00
+
+What are the best references for me to use to persuade them to use our product? You can get all of those questions answered for you immediately if you're a salesperson. The engineers can look at which features of Oracle Financials are people making the most errors when they're using those features that I have to fix and make easier to use. You just ask the question because all of that data is available to AI models. Is there anyone else doing this? Not that I know of. It's a huge advantage.
+
+Brad Zelnick
+Managing Director and Software Equity Research Analyst
+0:32:39
+
+It's an amazing day.
+
+Brad Zelnick
+Managing Director and Software Equity Research Analyst
+0:32:42
+
+We look forward to AI World, Larry. Thank you. It's an amazing day for Oracle. It's a remarkable day for the industry. Thanks again and congrats.
+
+
+Larry Ellison
+Chairman and CTO
+0:32:51
+
+Thank you. Thank you so much.
+
+Operator
+0:32:56
+
+Your next question comes from the line of Derrick Wood with TD Cowen. Please go ahead.
+
+Derrick Wood
+Managing Director and Senior Equity Research Analyst
+0:33:03
+
+Great. Thanks for taking my question. I'll echo my congratulations on this momentous quarter. Safra, I mean, the fact that you delivered over $300 billion in new RPO in Q1 is just really amazing to see. It's going to require a lot of infrastructure build-out. Could you provide a bit more context on how much CapEx and operational cost structure will be needed to fully service these contracts, how we should think about the ramp of these costs relative to the ramp in revenue over the next few years, and generally, how investors should be thinking about the ROI on this spend?
+
+Safra Catz
+CEO
+0:33:41
+
+Sure. First of all, as I mentioned in the prepared remarks and as I've said very clearly beforehand, we do not own the property. We do not own the buildings. What we do own and what we engineer is the equipment, and that's equipment that is optimized for the Oracle Cloud. It has extremely special networking capabilities. It has technical capabilities from Larry and his team that allow us to run these workloads much, much faster. As a result, it's much cheaper than our competitors, depending on the workload. Now, because of that, what we do is we put in that equipment only when it's time. Usually, very quickly, assuming that our customer accepts it, we're already generating revenue right away. The faster they accept the system and that it meets their needs, the faster they start using it, the sooner we have revenue.
+
+Safra Catz
+CEO
+0:34:58
+
+This is, in some ways, I don't want to call it asset light from the finance world, but it's asset pretty light. That is really an advantage for us. I know some of our competitors like to own buildings. That's not really our specialty. Our specialty is the unique technology, the unique networking, the storage, just the whole way we put these systems together. By the way, they are identical and very simplified, again, making it possible for us to be very profitable while still being able to offer our customers an incredibly compelling price. What I have indicated is that CapEx looks like it's going to be about $35 billion for this fiscal year. Because we're monitoring this, we're literally putting it in right when we take possession and then handing it over to generate revenue right away.
+
+Safra Catz
+CEO
+0:36:12
+
+We have a very good line of sight for our capabilities to put this out and basically to just spend on that CapEx right before it starts generating revenue. At this point, I'm looking at $35 billion for the year. I think it could be a little higher, and if it is higher, it's good news because it means more capacity has been handed over to me in terms of floor space. As you also know, we are embedded in our competitors' clouds. Again, all we are responsible for to pay for is, in fact, our equipment, and that goes right away. There, we're moving ultimately to 71 data centers embedded in our competitors/partners.
+
+
+Larry Ellison
+Chairman and CTO
+0:37:22
+
+Let me just add a couple of very short things. One is we just turned over a giant data hall to one of our customers. The acceptance time could have been as long as a couple of months. It was one week. It was one week from the time we, quote, "officially owned the equipment," and they were testing it to the time they started paying for it. One week. We have an extraordinary team that's doing an extraordinary job of making sure that we get the equipment working very quickly, and our customers can accept it. They want to accept it as fast as possible because they want to do the work. They want to train their models. This one took a huge hall, took one week for acceptance. It was an extraordinary event. We are a very large consumer of networking equipment, GPUs, et cetera.
+
+Larry Ellison
+Chairman and CTO
+0:38:16
+
+Because we are a very large consumer, we are able, I think, to get better financing terms from the vendors than some other people. I think we have that going for us as well. I think we're going to do very well on the finance side. We have advantages there as well.
+
+Derrick Wood
+Managing Director and Senior Equity Research Analyst
+0:38:36
+
+Great. Thank you, Larry. Thank you, Safra.
+
+Safra Catz
+CEO
+0:38:42
+
+Of course.
+
+Operator
+0:38:42
+
+Your next question comes from the line of Mark Moerdler with Bernstein Research . Please go ahead.
+
+Mark Moerdler
+Managing Director, SVP and Senior Research Analyst
+0:38:49
+
+Thank you very much, Larry and Safra, and frankly, team Oracle, amazing, and congratulations. I'd like to focus on the AI training business you've been winning. Could you please explain to us how Oracle can create enough of a differentiated moat to assure this business does not get commoditized? How do you continue to drive strong earnings and free cash flow from the training business, even if training slows? I think people really need to understand that.
+
+
+Larry Ellison
+Chairman and CTO
+0:39:22
+
+I can do it with one sentence. Our networks move data very, very fast. If we can move data faster than the other people, if we have advantages in our GPU superclusters that are performance advantages, if you're paying by the hour, if we're twice as fast, we're half the cost.
+
+Mark Moerdler
+Managing Director, SVP and Senior Research Analyst
+0:39:44
+
+That's tight.
+
+Safra Catz
+CEO
+0:39:45
+
+Our defense.
+
+Larry Ellison
+Chairman and CTO
+0:39:49
+
+I agree.
+
+Mark Moerdler
+Managing Director, SVP and Senior Research Analyst
+0:39:50
+
+Thank you.
+
+Operator
+0:39:56
+
+Your final question comes from the line of Alex Zukin with Wolfe Research. Please go ahead.
+
+Alex Zukin
+Managing Director and Software Equity Research Analyst
+0:40:03
+
+Hey, guys. I really appreciate you squeezing me in. I originally was going to ask you if the new Oracle AI Database really opens up the general enterprise inferencing market. Based on your script, it sounds like the answer to that question is hell yes. I guess my follow-up question would be, how do you see that pacing happening over the course of the next few years? How soon after the introduction of the Oracle AI Database would you expect your enterprise customers, your sophisticated customers, to really be open to interrogating their enterprise data in this fashion? How does the current supply constraint environment stand in the way of that demand, or is it solving as we speak?
+
+Safra Catz
+CEO
+0:40:50
+
+I don't know if, Larry, you want to cover it. You covered it in the.
+
+Larry Ellison
+Chairman and CTO
+0:40:53
+
+No, I've done it.
+
+Safra Catz
+CEO
+0:40:54
+
+G o ahead.
+
+Larry Ellison
+Chairman and CTO
+0:40:55
+
+Yeah, you got it. Go ahead.
+
+Larry Ellison
+Chairman and CTO
+0:40:57
+
+OK. I think who wouldn't want that? I mean, I think everyone says they want to use AI. CEOs say they want to use AI. Heads of state, heads of government say they want to use AI. We've never had consumers like that. Historically, we don't deal with CEOs. Now we deal with CEOs. Now we deal with heads of government and heads of state on this because AI is so important. Letting people use AI on top of their data, that is what they want to do. They didn't know how to do it securely. They didn't know how to do it, period. One of the big risks was, oh my god, I can't share my, you know, JPMorgan Chase can't share all of its data. Goldman Sachs can't share all of its data with OpenAI. They won't do it. Or xAI or Llama or Meta.
+
+Larry Ellison
+Chairman and CTO
+0:42:08
+
+It's got to keep it private. We've got to keep your private data private. We've got to keep your private data secure. We have to make it available for inferencing by the latest and best reasoning models from OpenAI and xAI and everyone else. Because we have the database, because we can vectorize all the data in the database, because we have very elaborate security models in our database, in the Oracle Database, we can do all that. We can deliver all that. What we chose to do with the AI database was not only make sure we can vectorize all the data so it can be understood by the AI model, we then bundled it with all of the AI models. That's why we did a deal with Google. That's why we did all of these deals where Gemini, you can get Gemini from the Oracle Cloud.
+
+Larry Ellison
+Chairman and CTO
+0:43:03
+
+You can get Grok from the Oracle Cloud. You can get ChatGPT from the Oracle Cloud. You get Llama from the Oracle Cloud. I could go on. We bundled them together so it's very easy for our customers to use these large language models on a combination. That's what they wanted, a combination of all of the publicly available data and all of their enterprise data, which allows them to ask and get answered any question they can think of, any question that's important to them. Everyone wants it. I think the demand is going to be insatiable. We can deliver a lot of databases and a lot of AI across our cloud over the next several years. We're in a good position to do that.
+
+Safra Catz
+CEO
+0:43:52
+
+This is going to be one of the reasons that Oracle databases, which are still the bulk of the enterprise market by a lot, are going to finally move into the cloud. Many of them will move in the public cloud using the Oracle AI Database. Many and the largest enterprises will want their own either dedicated regions or Oracle Cloud customer. They can finally get the benefit of AI for their own data using any LLM that they want because they're all in our cloud too.
+
+Alex Zukin
+Managing Director and Software Equity Research Analyst
+0:44:33
+
+It sounds like very high margin AI revenue, guys. Congratulations.
+
+Safra Catz
+CEO
+0:44:38
+
+Thank you. Thank you. OK.
+
+Ken Bond
+Head of Investor Relations
+0:44:44
+
+Thanks, Alex. A telephonic replay of this conference call will be available for 24 hours on our Investor Relations website. Thank you for joining us today. I'll turn the call back to Tiffany for closing.
+
+Operator
+0:44:56
+
+Ladies and gentlemen, this concludes today's call. Thank you all for joining. You may now disconnect.

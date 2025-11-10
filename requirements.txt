@@ -1,0 +1,33 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Vector store
+faiss-cpu>=1.7.4  # Use faiss-gpu if you have CUDA
+numpy>=1.24.0
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# Database
+# sqlite3 comes with Python
+
+# API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# Frontend (optional, if building React locally)
+# Node.js and npm required separately
+
+# Utilities
+tqdm>=4.66.0  # Progress bars
+colorama>=0.4.6  # Colored terminal output
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+pylint>=3.0.0

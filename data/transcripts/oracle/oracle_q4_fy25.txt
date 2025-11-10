@@ -1,0 +1,241 @@
+
+Oracle (
+ORCL
+6.83%
+)
+Q3 2025 Earnings Call
+Mar 10, 2025, 5:00 p.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Ladies and gentlemen, thank you for standing by. My name is Abby, and I will be your conference operator today. At this time, I would like to welcome everyone to the Oracle Corporation third quarter fiscal year '25 earnings conference call. All lines have been placed on mute to prevent any background noise.
+
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] Thank you. And I would now like to turn the conference over to Ken Bond, head of investor relations. Mr.
+
+Bond, you may begin.
+
+Kenneth Bond -- Senior Vice President, Investor Relations
+
+Thank you, Abby. Good afternoon, everyone, and welcome to Oracle's third quarter fiscal year 2025 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation, and other supplemental financial information can be viewed and downloaded from our investor relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from our investor relations website.
+
+On the call today are chairman and chief technology officer, Larry Ellison; and chief executive officer, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from the statements being made today.
+
+As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion of these risk factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking any questions, we will begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.
+
+Safra Ada Catz -- Chief Executive Officer
+
+Thanks, Ken, and good afternoon, everyone. As you can see, this was our strongest booking quarter ever by a huge margin as we added $48 billion to our backlog. Our RPO balance is now 130 billion, up from 97 billion last quarter and up from 80 billion last year. That's a growth of 63% year over year, and this does not include any contracts with Project Stargate.
+
+The RPO figure is the leading indicator of demand for our cloud services, while our live data center count and power capacity is the leading indicator of the conversion of RPO to revenue. Speaking of data centers, we marked a milestone this quarter as we crossed into triple digits with our 101st cloud region coming online. It's just a matter of time before we have more cloud regions than all of our competitors combined, reflecting the strategic advantage of our Gen 2 architecture which offers our customers the most flexibility. From a delivery standpoint, the growth of our power capacity under contract is even higher than the growth in the number of data centers.
+
+And we expect that our available power capacity will double this calendar year and triple by the end of next fiscal year. As we bring more capacity online, our revenues will clearly accelerate. What we are seeing in the market is that we are the destination of choice for both AI training and inferencing. This is due to the fact that our Gen 2 cloud is faster and, therefore, cheaper than our competitors and also due to our ultra high-speed networking engineering that we started decades ago and that is now highly relevant for AI.
+
+Taken together, we have numerous structural engineering advantages that distinguishes OCI from our competitors. And as Larry will discuss in more detail, beyond that, because of the momentum OCI is enjoying, customers are looking at us for many more workloads. Now, shifting to Q3 results, I'll be discussing our financials using constant currency growth rates as this is how we manage the business. So, here goes.
+
+Total cloud revenue, that's SaaS And IaaS, was up 25% at 6.2 billion, with SaaS revenue of 3.6 in the quarter, up 10%; and IaaS revenue of 2.7 billion, up 51%, on top of 49%, which we reported last year. Now, as a reminder, the exit from our advertising business last year had the effect of lowering total cloud revenue growth by 2% this quarter. Total cloud services and license support revenue for the quarter was 11 billion, up 12%, driven again by OCI, our strategic cloud applications, and cloud database services. Infrastructure subscription revenues, which includes license support, were 6.2 billion, up 18%.
+
+Record-level AI demand drove Oracle Cloud Infrastructure revenue, up 51% in Q3. And that's 54% when you exclude our legacy hosting, both a much higher growth rate than any of our hyperscaler competitors. Our infrastructure cloud services now have an annualized revenue of 10.6 billion. OCI consumption revenue was up 57%.
+
+Demand continues to dramatically outstrip supply. Now, we do expect that the component delays that have slowed cloud capacity expansion this year should ease in Q1 FY '26. So, pretty soon. Growth in the AI segment of our infrastructure business was extraordinary.
+
+GPU consumption revenue is now nearly three and a half times the size of last year's. Cloud database services, which were up 28%, now have annualized revenue of 2.3 billion. Autonomous database consumption revenue was up 42%, on top of the 32% growth reported last year. So, again, we have acceleration as we get bigger.
+
+As on premise databases migrate to the cloud, either on OCI directly through public cloud, Cloud@Customer, or DRCC; or through our database-at-cloud services with Azure, Google, or AWS, we expect the cloud database revenues collectively will be the third driver of revenue growth, alongside OCI and strategic SaaS. We are currently live in 18 cloud regions with database-at-cloud services with our partners and have another 40 planned with Azure, Google, and AWS. Now, finally, database subscription revenues, which includes license support, were up 6%. Application subscription revenues, which again, include product support, were 4.8 billion and up 6% to our strategic back office.
+
+SaaS applications now have annualized revenue of 8.6 billion and were up 18%. Software license revenues were down 8% to 1.1 billion. So, all-in, total revenues for the quarter were 14.1 billion, up 8% from last year. Now, shifting to gross profit and operating income.
+
+The gross profit dollars of cloud services and license support grew 10% in Q3. We continue to focus on operating expense discipline, which collectively continue to grow slower expense discipline, so expenses continue to grow slower than revenue, a trend that I expect will continue. The Q3 operating income grew 9%. And the operating margin was 44%, up slightly from last year.
+
+The non-GAAP tax rate for the quarter was 19.9%, which was higher than my 19% guidance and lowered EPS by $0.02. And EPS currency headwind ended up at $0.04 more than I thought would be hurt by currency as currency continued to strengthen. The non-GAAP EPS was $1.47 in U.S. dollars, up 4% in USD, up 7% in constant currency.
+
+The GAAP EPS was $1.02 in U.S. dollars, up 20% in USD, up 25% in constant currency. At quarter-end, we had $17.8 billion in cash and marketable securities. The short-term deferred revenue balance was 9 billion, up 3%.
+
+Operating cash flow for Q3 was 5.9 billion, slightly more than our 5.9 billion in capex as we front-loaded some purchases into the quarter. Given the demand that you see in our RPO growth and the additional demand we see in our pipeline, I expect fiscal year 2025 capex will be a little more than double what it was last year at around 16 billion. As always, we remain careful to pace and align our capex investments appropriately and in line with booking trends. On a trailing 12-month basis, operating cash flow was up 14% at 20.7 billion, and free cash flow was 5.8 billion.
+
+As I mentioned, remaining performance obligations, or RPO, is now 130 billion, up 63% in constant currency. And it reflects the growing trend of customers wanting larger and longer contracts as they see firsthand how Oracle Cloud Services are benefiting their businesses. Further, our cloud RPO grew over 90% and now represents more than 80% of total RPO. And approximately 31% of that total RPO number is expected to be recognized as revenue over the next 12 months.
+
+Now, we are and remain committed to returning value to our shareholders through technical innovations, acquisitions, repurchases, prudent use of cash -- of debt, and the dividend. This quarter, we repurchased nearly 1 million shares for a total of $150 million. And over the last 10 years, we've reduced the shares outstanding by more than a third at an average price of $54 a share. In addition, we have paid out dividends of 4.4 billion over the last 12 months, and the board of directors increased the quarterly dividend 25% from $0.40 to $0.50 per share today.
+
+Before I dive into Q4 specific guidance, I'd like to comment on the financial acceleration we expect to see in the coming years. We now have a clear line of sight to our future revenue growth. We remain very confident and committed to total cloud infrastructure revenue for fiscal year 2025, growing faster than the 50% reported last year. And it will be even faster for fiscal year 2026, likely a lot faster.
+
+Our confidence in meeting our $66 billion revenue target for FY '26 is now stronger than revenue -- than ever and represents around a 15% growth rate. And more importantly, I now expect that our fiscal year '27 growth rate will be around 20%, which is even higher than I previously guided. Let me now turn to my guidance for Q4, which I'll review on a non-GAAP basis. And assuming exchange rates remain the same as they are now, currency should have a $0.01 to $0.02 negative effect on EPS and a 1% negative effect on revenue.
+
+However, as usual, currency impact may be different, so focus in on constant currency. Total revenues are expected to grow from 9% to 11% in constant currency and are expected to grow from 8% to 10% in USD at today's exchange rate. Total cloud revenue is expected to grow from 24% to 28% in constant currency, is expected to grow from $25 to $27 in USD. Non-GAAP EPS is expected to grow from 0% to 2% and be between $1.62 and $1.66 in constant currency.
+
+Non-GAAP EPS is expected to grow between negative one and positive one and be between $1.61 and $1.65 in USD. I should mention that my Q4 EPS guidance is negatively impacted by $0.03 plus due to losses recognized from an investment in another company. Lastly, my EPS guidance for Q4 assumes a base rate of 19%. However, as you saw in this quarter, one-time tax events could cause actual tax rates to vary and usually do.
+
+And finally, I'm sure this isn't lost on anyone, but we are reporting earnings just 10 days after the close of the quarter. And that's also because there was a weekend. Using Fusion, we continue to file our quarterly and annual financial statements faster than any other company in the S&P 500. And with that, I'll turn it over to Larry for his comments.
+
+Larry Ellison -- Chairman and Chief Technology Officer
+
+Thank you, Safra. Well, as Safra pointed out, some of our existing businesses, AI training and multi-cloud database are experiencing hyper-growth. We are in the process of building a gigantic 64,000 GPU liquid-cooled NVIDIA GB200 cluster for AI training. Our multi-cloud business at Amazon, Google, and Microsoft grew 200% in the last three months alone.
+
+But in addition to these rapidly growing existing businesses, new customers and new businesses are migrating to the Oracle Cloud at an unprecedented rate. In Q3, we signed a multi-billion dollar contract with AMD to build a cluster of 30,000 of their latest MI355X GPUs. And all four of the leading cloud security companies, CrowdStrike, Cybereason, Newfold Digital, and Palo Alto, they all decided to move to the Oracle Cloud. But, perhaps, most importantly, Oracle has developed a new product called the AI Data Platform that enables our huge installed base of database customers to use the latest AI models from OpenAI, xAI, and Meta to analyze all of the data they have stored in their millions of existing Oracle databases.
+
+By using Oracle version 23ai's vector capabilities, customers can automatically put all of their existing data into the vector format that is understood by AI models. This allows those AI models to learn, understand, and analyze every aspect of your company or government agency, instantly unlocking the value in your data while keeping your data private and secure. This AI inferencing will be another great, large new business for Oracle. Back to you, Ken.
+
+Kenneth Bond -- Senior Vice President, Investor Relations
+
+Thank you, Larry. Abby, please pool the audience for questions. And a reminder, one question per analyst, please. Thank you.
+
+Questions & Answers:
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator instructions] And your first question comes from the line of Brad Zelnick with Deutsche Bank. Your line is open.
+
+Brad Zelnick -- Analyst
+
+Great. Thanks so much for taking the question, and congrats on just remarkable booking strength. Larry, I'm hoping you can expand more on Stargate because this is just a massive scale, American-first venture with Oracle joined by undisputed AI leaders like OpenAI and NVIDIA, and they chose you over several other choices in the market. What is Oracle's unique value add here? What can Oracle do that others can't? Thanks.
+
+Larry Ellison -- Chairman and Chief Technology Officer
+
+Well, I think it's -- it's actually a very simple. The capability we have is to build these huge AI clusters with technology that actually runs faster and more economically than our competitors. So, it really is a technology advantage we have over them. If you run faster and you pay by the hour, you cost less.
+
+So, that technology advantage translates to an economic advantage which allows us to win a lot of these huge deals. And it's not just the Stargate deal, which is in our future, by the way. You know, we got to over 130 billion in RPO without any transactions from Stargate. So, again, Stargate looks to be the biggest project -- AI training project out there, and we expect that will allow us to grow our RPO even higher in the coming quarters.
+
+And we do expect Stargate -- our first large Stargate contract fairly soon.
+
+Brad Zelnick -- Analyst
+
+Thanks for that, Larry. If I could maybe just sneak in a very quick one for Safra. When Stargate does hit as it is a related party, is there anything that you can share with us as to how we should expect it might flow through the financials? Thanks again.
+
+Safra Ada Catz -- Chief Executive Officer
+
+Well, it won't flow through us in any unique way. They will place contracts with us, and they'll come right through. So, I'll be explaining it to you once it's fully laid out, but it's not going to make your work harder. We're going to be very, very clear on, as the contracts come through us, it won't be as much of a change as you think.
+
+It's just going to be even larger numbers.
+
+Brad Zelnick -- Analyst
+
+Well, thank you again.
+
+Operator
+
+And your next question comes from the line of Derrick Wood with TD Cowen. Your line is open.
+
+Derrick Wood -- Analyst
+
+Safra and Larry, congrats on a strong bookings quarter. I wanted to drill into the growth undercurrents around OCI, especially in light of such a huge RPO number that didn't even include Stargate. In some quarters, we hear about particular demand for AI contracts, certainly seems to be a lot of favorable developments going on there. But other times, we hear about emerging adoption and multi-cloud and database on hyperscalers.
+
+And we can hear about strength and dedicated, as well with sovereign clouds and alloy. I guess as you look at Q3 bookings and pipeline trends, can you give us a sense as to how demand is unfolding across those three different environments and how you feel about the growth durability and really the infrastructure capacity, serviceability of each of these vectors?
+
+Safra Ada Catz -- Chief Executive Officer
+
+Well, I mean the reality is that everything is chugging on all fronts. So, multi-cloud, I gave you some of the numbers there. These numbers, I was just looking year over year because we only started really having revenue originally a year ago. It's more than 10 times what it was just a year ago.
+
+And the numbers are exploding. As I told you, we've got 18 lives, but 40 coming online. So, that is going unbelievably well. OCI public cloud, going spectacularly.
+
+Cloud@Customer, really going well and all the pieces around that. And we're starting -- there are whole parts that are only now rolling out which are sovereign clouds, disconnected clouds. And so, we've laid out quite a lot of capacity, and it's starting to fill up. So, bookings are going very, very well, and it's turning into revenue.
+
+So, pretty much we're going on all cylinders for us. We're happy when customers come, you know, directly to us with their database workloads, but we're also happy when they do -- they come to us through our partners, Azure, AWS, and GCP. So, for us, we don't care. It's -- they get exactly the same capability at the -- and it's really ideal.
+
+Derrick Wood -- Analyst
+
+That's great. Thank you.
+
+Larry Ellison -- Chairman and Chief Technology Officer
+
+Yeah, I think now, they -- by the way, now, the customers can get our database everywhere. They can install an Oracle Cloud region on their premises. They can get -- you know, they can get Oracle from Azure. They can get Oracle from Google.
+
+They can get Oracle from AWS. They obviously can get Oracle from OCI. And that Oracle database is becoming more and more capable. It does store most of the world's valuable data.
+
+It is, by far, the largest database install base in the world with nothing remotely close. And most of those databases are still on premise, but now, they're beginning to migrate to the cloud. And one of the big drivers of them migrating to the cloud is the autonomous version of the database. And now, perhaps, just as importantly, the AI Data Platform, which allows you to take all of your existing data and make it available to any of the leading AI models.
+
+I'll just say Grok, ChatGPT, Llama, all of them can immediately take advantage of your existing data in your existing database and turn it into insights and actions and agents directly, again, on your private data while keeping that private data private. And that has been the missing link in companies and government agencies taking full [Technical difficulty] be trained on all of the public data that's available on the internet. Now, that's a huge amount of information and makes for brilliant AI. But the AI is not -- does not have a lot of information about your company or your government agency because that that data is not available on the internet.
+
+That is not data that the AI model was trained on. Now, with the Oracle Database 23ai, the AI model can look at your data, train itself on that data and provide you with, again, insights, actions, on your existing data while keeping it private. You don't have to share it with anybody.
+
+Derrick Wood -- Analyst
+
+Fantastic. Thank you.
+
+Operator
+
+And your next question comes from the line of Alex Zukin with Wolfe Research. Your line is open.
+
+Alex Zukin -- Analyst
+
+Hey. Thank you, guys, and echoing the congratulations for truly unbelievable bookings number. I guess maybe, Larry, could you opine on the current kind of state of the AI training versus inferencing opportunity? You know, you have potentially investors worried about diminishing returns to training. Even some of your hyperscaler peers seemingly walking back on some of their capex commitments.
+
+What are you seeing out there with respect to training versus inference, both in the incremental bookings that you're adding in the pipeline? And maybe just how Oracle is differentiated on the inferencing side versus both hyperscalers and neo clouds, particularly with this AI data platform product that you just announced?
+
+Larry Ellison -- Chairman and Chief Technology Officer
+
+OK, well, obviously our training business is getting bigger and bigger and bigger very rapidly as evidenced by our RPO. But it wasn't just eye training that drove the RPO up. The AI inferencing, the potential of AI inferencing, and think about all of the Oracle databases out there that that data in those databases are going to train AI models. You know, the AI models are only useful if they're familiar with the data, your data.
+
+The AI models have to understand your products, your customers, your service requests, your financials. So, you have to make all that data available to the AI models in those databases. This has not -- you know -- this is -- we're right at the beginning of that. And again, on top of those Oracle databases now, we, ourselves, because we're in the application build business, have built lots and lots of agents on top of the Oracle on the Oracle databases and made those agents a part of our applications modernizing and automating our applications.
+
+But customers need to do the exact same thing as they build software inside of their government agency or they build software inside -- you know, again, AI agents inside of their company. And how are they -- what is -- how do they go about doing that? Well, they go about doing that is training the AI models on their data, on their data that is currently in an Oracle database. And we make that very easy. You push a button.
+
+You know, the Oracle -- the new version of the Oracle Database 23ai, with vector capabilities allow you to convert your data into vector format that's understood by the AI models. Nobody else has that, nobody else has that. So, you can make -- you can easily now train the AI models on your data for inferencing, obviously, and for building of agents. You can do that automatically with the Oracle database.
+
+We are the only one with that capability. So, we think inferencing in the end is a much bigger opportunity than AI training. And there are literally millions of Oracle databases all over the world that will -- and that data, all of those millions of databases, all of that data will be used to train AI models. And on top of that, they'll build agents and applications.
+
+We think, again, that -- I mean it's -- it's -- we don't have these one or 2 or 10 huge contracts for training because there aren't that many people building frontier models. But there are hundreds of thousands of our customers that will be consuming those AI models and training those same AI models on their private data and then running agents and applications on top of all of that. That's a much bigger market than AI training for us.
+
+Alex Zukin -- Analyst
+
+Super helpful. And maybe just, Safra, how to think about RPO trends and trending over the course of the next few quarters in light of that.
+
+Safra Ada Catz -- Chief Executive Officer
+
+I think -- there are going to be lumpiness, as you can see, but we actually expect some extremely significant numbers coming, you know, within the next few months also. So, there's just a lot of demand, folks. There's a lot of demand where people want to lock in and schedule in to our cloud. So, we're going to see -- we're going to see increases in RPO, But, you know, remember our remaining performance obligations, we also burn down some of it, you know, through the quarter as far as capacity goes online.
+
+But I expect that number to be extremely large. This is enormous but I expect it actually to continue to be very large amazingly.
+
+Alex Zukin -- Analyst
+
+Thank you so much.
+
+Operator
+
+And your next question comes from the line of John DiFucci with Guggenheim. Your line is open.
+
+John Difucci -- Analyst
+
+Thank you. You said you were live on 33 cloud regions and another 40 planned with Azure, AWS --
+
+Safra Ada Catz -- Chief Executive Officer
+
+No, 18, 18, 18 multi-cloud.
+
+John Difucci -- Analyst
+
+OK, I'm sorry. See, I got --
+
+Safra Ada Catz -- Chief Executive Officer
+
+Yes.
+
+John Difucci -- Analyst
+
+I got you way ahead of yourself. I'm sorry about that. But anyway, I know you said you had another 40 planned with Azure --
+
+Safra Ada Catz -- Chief Executive Officer
+
+Yes.
+
+John Difucci -- Analyst
+
+AWS and Google.
+
+Safra Ada Catz -- Chief Executive Officer
+
+Yes.
+
+John Difucci -- Analyst
+
+We -- This quarter we saw a big uptick like in discussions between partners and large enterprises regarding Oracle database at pick your hyperscaler. Like the discussions seem to be in like happening in mass but not the deals yet. And one of the things a limiting factor in talking to partners was that some of these global enterprises needed it to be global because they're global enterprises. And those 40, I guess, does that get you there for that? And when -- like when do those 40 get deployed? Are they going to be deployed over the next year? Or is it going to be over the next, I don't know, about how long does that take?
+
+Safra Ada Catz -- Chief Executive Officer
+
+Well, of course, we're not in full control of that. But everyone's motivated to get them as quickly as possible because as you know, the way the revenue flows through, it flows through to our partner or our host. And then, we -- and then, they pay us. So, they're very, very motivated to get it as quickly as possible because that is holding up revenue for them until they can deploy it.
+
+So, it's been moving very quickly

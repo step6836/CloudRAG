@@ -1,0 +1,262 @@
+1
+Workday, Inc.
+Third-Quarter Fiscal 2025
+Prepared Remarks
+November 26, 2024
+Introduction
+Thank you, Operator.
+Welcome to Workday’s third quarter fiscal 2025 earnings conference call. On the call we have
+Carl Eschenbach, our CEO, Zane Rowe, our CFO, Doug Robinson, our Co-President, and
+David Somers, our Chief Product Officer. Following prepared remarks, we will take questions.
+Our press release was issued after close of market and is posted on our website, where this call
+is being simultaneously webcast.
+Before we get started, we want to emphasize that some of our statements on this call,
+particularly our guidance, are based on the information we have as of today, and include
+forward-looking statements regarding our financial results, applications, customer demand,
+operations and other matters. These statements are subject to risks, uncertainties and
+assumptions that could cause actual results to differ materially. Please refer to the press release
+and the risk factors in documents we file with the Securities and Exchange Commission,
+including our fiscal 2024 Annual Report on Form 10-K and our most recent Quarterly Report on
+Form 10-Q for additional information on risks, uncertainties and assumptions that may cause
+actual results to differ materially from those set forth in such statements.
+In addition, during today’s call, we will discuss non-GAAP financial measures, which we believe
+are useful as supplemental measures of Workday’s performance. These non-GAAP measures
+should be considered in addition to, and not as a substitute for or in isolation from GAAP results.
+You can find additional disclosures regarding these non-GAAP measures, including
+reconciliations with comparable GAAP results, in our earnings press release, in our investor
+presentation, and on the Investor Relations page of our website.
+The webcast replay of this call will be available for the next 90 days on our company website
+under the Investor Relations link. Additionally, the transcript of this call and our quarterly
+investor presentation will be posted on our Investor Relations website following this call. Also,
+the Customers page of our website includes a list of selected customers and is updated
+monthly.
+Our fourth quarter fiscal 2025 quiet period begins on January 15th, 2025. Unless otherwise
+stated, all financial comparisons in this call will be to our results for the comparable period of our
+fiscal 2024.
+With that, I will hand the call over to Carl.
+2
+CEO Remarks
+Thank you, Justin, and thank you all for joining us today.
+I’m pleased to report another quarter of solid financial performance in Q3, with 16% subscription
+revenue growth and non-GAAP operating margins of 26%.
+These results are a testament to the strong customer relationships we have across industries,
+the growing demand of our AI innovations, and the power of our ecosystem around the world.
+More and more organizations are consolidating on the Workday platform for a few key reasons:
+They want to reduce total cost of ownership, simplify their operations, and harness the power of
+AI across our best-in-class HR and Finance solutions and provide employees with an amazing
+user experience. Workday gives them the ultimate advantage.
+That was evident in the growth we had in full suite, and in our net new wins, and customer
+expansions across geographies, segments along with industries.
+Several industries were strong in the quarter, and government and higher education were two of
+the standouts. Roughly 90% of the wins in these industries were full suite. In Q3 the Defense
+Intelligence Agency expanded its business with Workday, and Lake County Illinois, Maryland
+General Assembly, New Jersey Institute of Technology, and University System of Georgia all
+chose Workday to modernize their systems and meet the rising expectations of their
+constituents.
+This quarter, Professional and Business Services became the third industry to exceed $1B in
+annual recurring revenue, alongside Financial Services and Retail and Hospitality. Advantage
+Solutions, Connells Limited and Flight Centre Travel Group all selected Workday.
+And in healthcare, we had a huge full suite win with CommonSpirit Health, one of the largest
+nonprofit healthcare systems in the U.S., as well as Community Health System and Valley
+Children’s Healthcare.
+From a product perspective, our HCM solutions are really setting the pace when it comes to the
+future of work. In the quarter we had wins with Brookshire Grocery Company, IOI Group,
+ProMach, Royal Mail, and TeamHealth, just to name a few.
+We're also continuing to invest in our Financials business, and that’s driving demand for our full
+suite. More than 35% of our new core customers in Q3 were full suite. And in Q3, we were
+again named a Leader in the 2024 Gartner® Magic Quadrant™ for Cloud HCM Suites for
+1,000+ Employee Enterprises1
+, Cloud ERP for Service-Centric Enterprises2
+, and Financial
+Planning Software3
+.
+And speaking of Planning, that business had a great Q3. We either expanded or formed new
+relationships with some fantastic organizations like Deloitte, the Fitness and Lifestyle Group,
+Motion Picture Association, and Tenet Healthcare. And we were thrilled to have AWS go live on
+Planning in Q3!
+AI is top of mind for every CEO right now, and they're all looking for the right partner to guide
+them through this transformation.
+3
+That's where Workday comes in.
+Our customers know that an investment in Workday is an investment in AI, and we’re seeing a
+ton of excitement and demand for our AI solutions. In Q3 alone, more than 30% of our customer
+expansions involved one or more of our AI solutions, including Talent Optimization, Extend Pro
+and Recruiter Agent powered by HiredScore. Talent Optimization remains one of our fastest
+growing SKUs and it’s driving tangible value—customers have experienced up to a 39%
+reduction in turnover.
+Recruiter Agent, in particular, had a huge quarter, with wins at Johnson Controls, Cox
+Enterprises, and UofL Health. In fact, the team closed more new logos in Q3 than in its 12-year
+history, and our new ACV more than quadrupled compared to Q2. And what’s awesome is that
+Recruiter Agent is boosting the average selling price of our core recruiting solution by almost
+150%.
+It’s clear that customers are ready to invest in AI that's built for their specific needs and delivers
+real results. They want solutions that are easy to implement and provide value quickly, without
+needing a ton of IT support. This growing demand shows the huge opportunity we have to grow
+and monetize this part of our business.
+So, let’s talk about how we’re going to capture this opportunity with our innovation.
+With more than 70 million users under contract generating more than 800 billion transactions a
+year on our platform, our AI leverages the world’s largest and cleanest HR and Finance dataset.
+In our industry, where decisions are high-stakes and complex, the quality and quantity of our
+data is a critical differentiator. And the combination of this data—with our ability to understand
+the context behind it—enables Workday to unlock value in a way no competitor can do.
+At Rising, we unveiled Illuminate—the next generation of Workday AI. With Illuminate, we’re
+unlocking a whole new level of productivity and human potential by accelerating manual tasks,
+assisting every employee, and ultimately transforming entire business processes.
+As part of Illuminate we launched a set of new AI agents that uniquely transform some of the
+most complex business processes in HR and Finance—such as recruiting, expense
+management and succession planning.
+Recruiter Agent is available now, Expenses Agent is expected to become available by the end
+of the year, and several more will soon follow.
+We believe Optimize Agent, which is coming out next year, is going to be a true game-changer.
+It pinpoints bottlenecks, inefficiencies, and areas where processes aren't running as smoothly
+as they could be. The possibilities with this are endless, and I'm fired up about it.
+Beyond the agents Workday is delivering, we're collaborating with our partners to support agent
+to agent communication for employee self-service needs. Salesforce is a great example here.
+So is our recent partnership with Microsoft on its M365 Copilot Employee Self-Service Agent.
+We also updated Workday Assistant, with our GenAI copilot. Employees can use it to ask
+questions in natural language about anything from their pay and benefits to company policies—
+and get quick, personalized answers. More than 2,000 of our HCM customers are using the
+4
+currently available Workday Assistant to improve efficiency, including one of our customers who
+has been able to cut down HR case volumes by almost 30%. We believe the new copilot will
+help drive even further increases in productivity, allowing employees and HR departments to
+focus on more strategic work.
+CIOs get super excited when we talk about Workday Assistant. Other solutions out there require
+organizations to take sensitive data, like payroll info, and move it outside their core system.
+That's a big risk no one wants to take.
+With Workday, everything stays secure within our trusted platform.
+Continuing to accelerate our AI roadmap, we closed our acquisition of Evisort, a leading
+document intelligence platform. Consider this—Over 80% of business data is unstructured—
+making it difficult to search, analyze, or use effectively. This includes critical information locked
+away in contracts, invoices, and policy documents, just to name a few. With Evisort's powerful
+AI, our customers can now unlock critical insights from this untapped data, empowering them to
+make faster, more informed business decisions.
+The strength of the Workday platform continues to draw interest from customers and partners
+alike. We've now got over 1,000 customers building their own custom apps on our platform
+using Extend, making it one of our fastest-growing products ever. In fact, new ACV for Extend
+more than doubled within the quarter compared to last year.
+Extend Pro, which allows you to build AI-first apps with our AI Gateway and Developer co-pilot,
+is having an even greater impact, with its average selling price double that of Extend
+Essentials.
+Our partner ecosystem has grown nearly 5x in just 18 months and is more diverse than ever.
+Our partners are becoming increasingly critical to our growth, sourcing over 10% of our net new
+ACV in Q3, and a similar percentage of our new pipeline.
+We’ve seen rapid adoption of our "Built on Workday" program, which we launched less than 6
+months ago. We've already got over 40 partners on board, and partners like Kainos are
+generating revenue from it.
+At Rising, we announced Workday Wellness, which gives companies real-time insights into how
+their employees are using their benefits. This helps them design more tailored benefits
+programs right within Workday HCM to improve the overall employee experience. We're excited
+to have Guardian, The Hartford, Mutual of Omaha, and Unum already signed on as strategic
+partners.
+International growth continues to be one of Workday’s most compelling opportunities. This past
+quarter, I spent time with customers and our amazing Workmates in the UK, Ireland, Germany,
+France, and Japan. The energy and excitement is incredible.
+In Q3, we formed a new strategic partnership with NTT Data, one of the most influential system
+integrators in Japan.
+And in APAC, we formed new relationships with Estia, a major Australian aged care provider,
+and Flight Centre, a leading Australian travel and leisure brand. We also expanded our footprint
+with United Overseas Bank, one of the largest banks in Singapore.
+5
+Over in EMEA, we faced the same deal scrutiny we’ve called out the last few quarters, but we
+had our largest-ever public sector win with the Department for Science, Innovation and
+Technology in the UK. That's generating a lot of interest from other UK public agencies. We also
+had major wins with big enterprises like Decathlon in France and Goldbeck in Germany.
+And we’re gearing up for Rising EMEA in Amsterdam in just a few weeks!
+The relationships we're building around the world point to the significant long-term potential of
+our international business. While only 25% of our revenue comes from outside the U.S. today,
+we're laying the groundwork for something much bigger.
+Before I wrap up, I wanted to give you a quick update on the team. We recently announced that
+Doug Robinson, who has been an incredible leader over the past 14 years, will be retiring at the
+end of the fiscal year. I can’t thank Doug enough for the tremendous impact he’s had on
+Workday. We’re excited to have him continue on as an advisor to the company.
+With Doug's retirement, I'm thrilled to welcome Rob Enslin to Workday as our new President,
+Chief Commercial Officer. Workday continues to be a magnet for great talent and Rob is
+another great example. He’s a world-class executive with 30 years of experience in the
+enterprise space. He brings fantastic customer and partner relationships and a proven track
+record of success. He's the perfect person to lead our go-to-market efforts as we move into our
+next phase of growth.
+As you can see, it was a busy quarter!
+We have a clear target between now and FY27 of driving mid-teens subscription revenue
+growth while expanding non-GAAP operating margins to 30%. We plan to achieve this by
+continuing to innovate and take share in our core markets, while also streamlining operations
+across the company.
+But what really excites me is the opportunity we have ahead of us as we lead our customers
+through the AI revolution and help them transform their organizations for the future of work.
+I'm incredibly grateful to my Workmates for their contributions this quarter. With our amazing
+culture, continuous innovation, and the trust of our customers, Workday is in a fantastic position
+to drive sustainable, profitable growth at scale.
+Thanks again, and to those of you in the U.S., Happy Thanksgiving!
+With that, I’ll hand it over to Zane.
+CFO Remarks
+Thanks, Carl. And thank you to everyone for joining today’s call. In Q3, we continued to make
+progress across a number of our key growth areas, as we lay the foundation for durable,
+profitable growth at scale.
+6
+Subscription revenue in the third quarter was $1.959 billion, up 16%. Professional services
+revenue was $201 million, resulting in total revenue of $2.160 billion, growth of 16%.
+U.S. revenue in Q3 totaled $1.62 billion, and international revenue totaled $537 million, both
+growing 16%.
+12-month subscription revenue backlog, or cRPO, was $6.98 billion at the end of Q3, increasing
+15%.
+Total subscription revenue backlog at the end of the quarter was $22.19 billion, up 20%.
+Gross revenue retention rates remained strong at 98%.
+Our non-GAAP operating income for the third quarter was $569 million, resulting in a non-GAAP
+operating margin of 26.3%.
+Q3 operating cash flow was $406 million, in line with our expectations though down year-overyear, impacted by the stronger-than-expected collections activity we called out in Q2.
+During the quarter, we repurchased $157 million dollars of our shares at an average price of
+$242.42 per share. We had $902 million in remaining authorization under our buyback program
+as of quarter end.
+We ended Q3 with $7.2 billion in cash and marketable securities.
+As of October 31st, headcount stood at nearly 20,500 workmates around the globe, as we
+continue to hire talent across targeted growth areas.
+A few of our strategic wins in Q3 have future product deliverables in FY26. This slightly impacts
+our near-term results, as these wins won’t fully benefit subscription revenue until next year.
+We expect Q4 FY25 subscription revenue to be $2.025 billion, growth of 15%, and full-year
+subscription revenue of $7.703 billion, an increase of 17%. We expect Q4 cRPO growth to be
+between 13.5% and 14.5%.
+We expect Q4 professional services revenue of approximately $155 million, resulting in full year
+professional services revenue of $712 million.
+We continue to balance targeted investments in key growth areas with increased focus on
+companywide efficiencies. As a result, we are raising our FY25 non-GAAP operating margin
+guidance to 25.5%, and we anticipate a non-GAAP operating margin of approximately 25.0% in
+Q4.
+GAAP operating margin for both the fourth quarter and full year is expected to be approximately
+20 percentage points lower than the non-GAAP rate.
+7
+The estimated FY25 non-GAAP tax rate remains at 19%.
+We are maintaining our FY25 operating cash flow expectations of $2.350 billion, and we now
+expect capital expenditures of approximately $300 million.
+We are making good progress across our key growth initiatives, in particular with our partner
+ecosystem and developing AI opportunities, supporting our medium-term target of mid-teens
+growth. As an early view, we anticipate FY26 subscription revenue of approximately $8.8 billion,
+or about 14% growth.
+We expect our first quarter subscription revenue growth to be slightly lower than our overall
+growth rate for FY26. This is largely due to the impact of the leap year, which creates just over a
+one point headwind to Q1 subscription revenue growth. We expect a slightly higher growth rate
+in the second half, driven in part by emerging AI opportunities and deliverables tied to strategic
+wins from the third quarter which I referenced earlier.
+We are investing for growth, while at the same time focused on driving efficiencies across the
+business. This includes the continued expansion of our global workforce, integrating AI across
+the company, and improving processes and systems. We expect FY26 non-GAAP operating
+margin of approximately 27.5%, as we demonstrate progress towards long-term margin
+expansion. In addition, we are actively managing share-based compensation expense, and
+expect it to continue trending lower as a percentage of revenue.
+As we enter Q4, we are focused on executing for both the short and long-term, as we build the
+foundation for durable topline growth and margin accretion.
+With that, I'll turn it back over to the operator to begin Q&A.
+[END OF PREPARED REMARKS]
+_____________________________________________
+1Gartner Magic Quadrant for Cloud HCM Suites for 1,000+ Employee Enterprises, Ranadip Chandra, Sam Grinter, Ron Hanscome, Chris Pang, Anand Chouksey, Josie Xing,
+Harsh Kundulli, David Bobo, Laura Gardiner, Hiten Sheth, Emi Chiba, Travis Wickesberg, and Michelle Shapiro, 23 October 2024.
+2Gartner Magic Quadrant for Cloud ERP for Service-Centric Enterprises, Robert Anderson, Denis Torii, Sam Grinter, Naveen Mahendra, Tomas Kienast, Johan Jartelius, 4
+November 2024.
+3 Gartner Magic Quadrant for Financial Planning Software, Regina Crowder, Vaughan Archer, Matthew Mowrey, Michelle Carlsen, 18 November 2024.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the
+highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact.
+Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. The Gartner
+content described herein (the “Gartner Content”) represents research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"),
+and is not a representation of fact. Gartner Content speaks as of its original publication date (and not as of the date of this Earnings Call), and the opinions expressed in the
+Gartner Content are subject to change without notice.
+GARTNER is a registered trademark and service mark, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and
+are used herein with permission. All rights reserved.
