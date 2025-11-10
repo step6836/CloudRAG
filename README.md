@@ -1,6 +1,6 @@
 # CloudRAG: Intelligent Earnings Call Analysis System
 
-CloudRAG is an automated pipeline using RAG (Retrieval-Augmented Generation) system for analyzing earnings call transcripts from major cloud/SaaS companies. It builds embeddings for fast retrieval and allows interactive queries or API access to extract insights from company earnings calls.
+CloudRAG is an automated pipeline using RAG (Retrieval-Augmented Generation) system for analyzing earnings call transcripts from major cloud/SaaS companies utilizing OpenAI's 4.0 mini. It builds embeddings for fast retrieval and allows interactive queries or API access to extract insights from company earnings calls.
 
 ## Project Highlights
 
