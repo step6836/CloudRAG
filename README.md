@@ -130,7 +130,7 @@ CloudRAG/
 
 ### CLI Query
 ```python
-from rag_pipeline_v2 import CloudRAGSystem
+from rag_pipeline_v3 import CloudRAGSystem
 
 rag = CloudRAGSystem()
 
