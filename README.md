@@ -258,7 +258,7 @@ MIT License
 
 ## Author
 
-**Stephanie H** - Psychology → Data Science
+**Stephanie H** 
 - LinkedIn: [(https://www.linkedin.com/in/stephaniehur/)]
 - GitHub: [(https://github.com/step6836)]
 ---
